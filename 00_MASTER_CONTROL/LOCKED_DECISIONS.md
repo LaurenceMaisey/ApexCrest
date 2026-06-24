@@ -99,6 +99,14 @@ Locked hero objects:
 - Summit = stone stair
 - Sanctuary = lantern
 
+### Flexibility Guard
+
+Shape language and hero objects are identity anchors, not rigid foreground prop requirements.
+
+They may be foregrounded, backgrounded, implied, echoed, embedded in composition, or represented through texture, silhouette or border language.
+
+The purpose is recognisable identity, not visual repetition or forced literal props.
+
 ## 7. VAT-safe product law
 
 The card placement must remain secondary.
@@ -123,3 +131,21 @@ The worlds must remain universal across TCGs and collectible categories.
 ## 10. Anti-repetition production rule
 
 Reject any world design that defaults to generic fantasy valley, repeated mountain range, sky plus path, glowing horizon, castle/city/kingdom, or over-detailed fantasy clutter unless that structure is explicitly locked for that world.
+
+## 11. Approval hierarchy
+
+Hard pass/fail:
+
+1. Dominant emotion
+2. Landscape archetype
+3. No-character rule
+4. Universal TCG compatibility
+5. Book-first / VAT-safe hierarchy
+6. Clear differentiation from other worlds
+
+Flexible but required as recognisable signals:
+
+1. Shape language
+2. Hero object
+3. Right-page echo motif
+4. Secondary visual details

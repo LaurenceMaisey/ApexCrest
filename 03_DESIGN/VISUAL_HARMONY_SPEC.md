@@ -12,6 +12,8 @@ Each world is a premium atmospheric environment expressing a dominant collector 
 
 The artwork must feel universal across TCGs rather than belonging to any one franchise.
 
+ApexCrest must not become ten versions of the same mountain-valley fantasy composition.
+
 ## Universal illustration style
 
 **Premium atmospheric collector-book illustration.**
@@ -31,6 +33,80 @@ But copy none of them.
 - 60% illustrated storybook atmosphere
 - 25% cinematic environment art
 - 15% premium editorial design
+
+## Mandatory visual laws
+
+### 1. Place Law
+
+Every world must be a place someone could imagine entering.
+
+If it is only an effect, reject it.
+
+This especially protects Prism from becoming only light, colour, rainbow, crystal or glow.
+
+### 2. Emotion Law
+
+Each world must express one dominant feeling.
+
+If two worlds feel emotionally similar, redesign one.
+
+This especially protects Storm, Frost and Summit from collapsing into the same dramatic mountain world.
+
+### 3. Echo Law
+
+The right page must carry a subtle visual echo of the left page.
+
+Not full illustration.
+Not decoration.
+A controlled echo.
+
+This keeps the book visually cohesive while protecting book-first/VAT-safe positioning.
+
+### 4. Environment Diversity Law
+
+No two worlds may share the same primary landscape archetype.
+
+Every world must have a unique environmental identity.
+
+If multiple worlds default to valley, mountain, sky, path and atmospheric light, reject and redesign.
+
+Only Summit may be primarily mountain-focused.
+
+### 5. Shape Language Law
+
+Every world must have a distinct silhouette and dominant shape language so that it remains recognisable even in black and white.
+
+Locked shape language:
+
+- Ember = jagged
+- Lagoon = horizontal
+- Forest = vertical
+- Moonlight = archways
+- Prism = terraced
+- Storm = diagonal
+- Frost = flat
+- Celestial = curved
+- Summit = triangular
+- Sanctuary = enclosed
+
+### 6. One Hero Object Law
+
+Every world must have one recurring signature object or visual anchor.
+
+Locked hero objects:
+
+- Ember = molten fissure
+- Lagoon = shell / coral edge
+- Forest = roots
+- Moonlight = ruined arch
+- Prism = reflective terraces
+- Storm = lighthouse / lightning pass
+- Frost = frozen tree / ice sheet
+- Celestial = night lake / Orion sky
+- Summit = stone stair
+- Sanctuary = lantern
+
+This creates recognition and prevents the worlds from blending together.
 
 ## Mandatory rules
 
@@ -89,6 +165,19 @@ Avoid:
 - excessive gold
 - childish illustration
 - direct franchise styling
+
+## Anti-repetition production test
+
+Before approving any artwork, ask:
+
+1. Is this world immediately recognisable without reading the title?
+2. Does it use its locked landscape archetype?
+3. Does it use its locked shape language?
+4. Does it include its locked hero object or visual anchor?
+5. Does it avoid becoming another mountain/valley/sky/path image?
+6. Does it feel emotionally distinct from every other world?
+
+If any answer is no, reject or redesign.
 
 ## Compatibility test
 

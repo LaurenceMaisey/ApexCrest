@@ -31,6 +31,10 @@ ApexCrest is not 10 fantasy worlds.
 
 ApexCrest is **10 emotional landscapes expressed as premium atmospheric environments**.
 
+The target is not merely a nice art book.
+
+The target is **10 instantly recognisable emotional worlds** forming a category-defining visual system.
+
 ## 6. Mandatory visual laws
 
 ### Place Law
@@ -53,6 +57,48 @@ Not a full continuation.
 Not generic decoration.
 A controlled echo.
 
+### Environment Diversity Law
+
+No two worlds may share the same primary landscape archetype.
+
+Only Summit may be primarily mountain-focused.
+
+This prevents the book from becoming repeated mountains, valleys, dramatic skies, glowing horizons and paths.
+
+### Shape Language Law
+
+Every world must have a distinct silhouette and dominant shape language.
+
+Locked shape language:
+
+- Ember = jagged
+- Lagoon = horizontal
+- Forest = vertical
+- Moonlight = archways
+- Prism = terraced
+- Storm = diagonal
+- Frost = flat
+- Celestial = curved
+- Summit = triangular
+- Sanctuary = enclosed
+
+### One Hero Object Law
+
+Every world must have one recurring signature object or visual anchor.
+
+Locked hero objects:
+
+- Ember = molten fissure
+- Lagoon = shell / coral edge
+- Forest = roots
+- Moonlight = ruined arch
+- Prism = reflective terraces
+- Storm = lighthouse / lightning pass
+- Frost = frozen tree / ice sheet
+- Celestial = night lake / Orion sky
+- Summit = stone stair
+- Sanctuary = lantern
+
 ## 7. VAT-safe product law
 
 The card placement must remain secondary.
@@ -73,3 +119,7 @@ Current preferred direction:
 World illustrations must not include franchise characters, franchise lookalikes, mascots, trainers, heroes, villains, or creatures as focal points.
 
 The worlds must remain universal across TCGs and collectible categories.
+
+## 10. Anti-repetition production rule
+
+Reject any world design that defaults to generic fantasy valley, repeated mountain range, sky plus path, glowing horizon, castle/city/kingdom, or over-detailed fantasy clutter unless that structure is explicitly locked for that world.

@@ -108,6 +108,18 @@ Locked hero objects:
 
 This creates recognition and prevents the worlds from blending together.
 
+### 7. Flexibility Guard
+
+The anti-repetition system must not become a rigid prop checklist.
+
+Locked hero objects and shape languages are **identity anchors**, not compulsory foreground props.
+
+A design passes if the anchor is clearly present, implied, echoed, or structurally embedded.
+
+A design fails only if the world loses recognisable identity, emotional clarity, or visual distinction.
+
+This prevents over-constraining artists while preserving the category-defining world system.
+
 ## Mandatory rules
 
 ### 1. Environment only
@@ -172,12 +184,37 @@ Before approving any artwork, ask:
 
 1. Is this world immediately recognisable without reading the title?
 2. Does it use its locked landscape archetype?
-3. Does it use its locked shape language?
-4. Does it include its locked hero object or visual anchor?
+3. Does it use its locked shape language, either directly or structurally?
+4. Does it include, imply, or echo its locked hero object or visual anchor?
 5. Does it avoid becoming another mountain/valley/sky/path image?
 6. Does it feel emotionally distinct from every other world?
+7. Does it still feel premium, atmospheric and natural rather than like a forced checklist?
 
-If any answer is no, reject or redesign.
+If answers 1, 2, 5 or 6 are no, reject or redesign.
+
+If answers 3, 4 or 7 are weak, revise rather than automatically reject.
+
+## Artist interpretation rule
+
+Artists may vary:
+
+- camera angle
+- lighting
+- season
+- distance from hero object
+- foreground detail
+- texture density
+- border echo style
+- degree of abstraction
+
+Artists may not vary:
+
+- dominant emotion
+- landscape archetype
+- book-first hierarchy
+- no-character rule
+- universal TCG compatibility
+- VAT-safe card-secondary structure
 
 ## Compatibility test
 

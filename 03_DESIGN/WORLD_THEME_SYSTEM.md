@@ -18,6 +18,25 @@ No two worlds may share the same primary landscape archetype, motion language, s
 
 If the worlds begin to collapse into repeated mountains, valleys, dramatic skies, paths or glowing horizons, the design has failed.
 
+## Anchor flexibility principle
+
+Landscape archetype and dominant emotion are hard constraints.
+
+Shape language and hero objects are identity anchors.
+
+They should guide recognition, composition and recurring visual language, but they must not become forced literal props in every image.
+
+A hero object may be:
+
+- foregrounded
+- backgrounded
+- partially visible
+- implied through structure
+- echoed on the right page
+- represented through texture, silhouette or border language
+
+The purpose is recognisable identity, not visual repetition.
+
 ## 1. Ember Tribute
 
 - Dominant emotion: Passion
@@ -156,9 +175,13 @@ Only Summit may be primarily mountain-focused.
 
 Every world must be recognisable by silhouette and form, not just colour.
 
+Shape language is a compositional guide, not a literal geometry requirement.
+
 ### 3. One Hero Object Law
 
-Every world must include or imply its locked hero object.
+Every world must include, imply, or echo its locked hero object.
+
+The hero object is not required to be the main foreground subject.
 
 ### 4. Default AI Rejection Rule
 
@@ -185,6 +208,24 @@ unless that specific structure is explicitly locked for the world.
 - Celestial = night lake, curved, Orion sky
 - Summit = golden mountain path, triangular, stone stair
 - Sanctuary = warm refuge, enclosed, lantern
+
+## Approval hierarchy
+
+Hard pass/fail:
+
+1. Dominant emotion
+2. Landscape archetype
+3. No-character rule
+4. Universal TCG compatibility
+5. Book-first / VAT-safe hierarchy
+6. Clear differentiation from other worlds
+
+Flexible but required as recognisable signals:
+
+1. Shape language
+2. Hero object
+3. Right-page echo motif
+4. Secondary visual details
 
 ## Final rule
 

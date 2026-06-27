@@ -147,6 +147,28 @@ Reason:
 
 The book uses authored text only.
 
+## 64-page decision
+
+The preferred first-edition page count is now **64 pages**.
+
+The 64-page version is preferred because it gives the product stronger book-first substance and reduces the relative proportion of card display pages.
+
+Preferred first-edition page count:
+
+- 64 pages total
+- 10 card display pages maximum
+- card display pages = 15.6% of total pages
+
+Minimum fallback only if production cost requires it:
+
+- 56 pages total
+- 10 card display pages maximum
+- card display pages = 17.9% of total pages
+
+The previous 48–56 page target is superseded.
+
+48 pages is no longer the preferred structure and may only be reconsidered after print-cost review and VAT specialist review.
+
 ## VAT-safe implications
 
 This structure strengthens the book-first position because:
@@ -154,25 +176,15 @@ This structure strengthens the book-first position because:
 - only 1 page per 4-page world is card-display-led
 - the other 3 pages are authored/illustrated book content
 - the book remains valuable without cards
-- the first edition can target 48–56 pages
-- 10 card display pages remain comfortably below 25% of total pages when the book reaches 48–56 pages
-
-Preferred first-edition page count:
-
-- 56 pages total
-- 10 card display pages
-- card display pages = 17.9% of total pages
-
-Acceptable working range:
-
-- 48–56 pages total
-- 10 card display pages maximum
-- card display pages below 25% of total pages
+- the first edition is designed around 64 pages preferred
+- 10 card display pages remain comfortably below 25% of total pages
+- the 64-page structure gives clearer distance from the picture-card/stamp-album risk area
 
 Avoid:
 
 - 20-page structure
 - 40-page structure
+- 48-page structure as the default
 - any structure where 10 card pages represent 25% or more of the book
 
 ## Public-facing language lock
@@ -207,5 +219,7 @@ Book first.
 World first.
 
 Card second.
+
+64 pages preferred.
 
 The card can still be visually powerful when inserted, but the product must remain a finished illustrated book without it.

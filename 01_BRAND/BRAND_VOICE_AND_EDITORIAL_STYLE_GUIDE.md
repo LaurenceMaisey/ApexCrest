@@ -2,11 +2,11 @@
 
 ## Status
 
-Canonical guide draft — Phase 2B Language Engine v0.1.
+Canonical guide draft — Phase 2C Channel Rules integrated v0.1.
 
 This document is the emerging editorial operating system for ApexCrest.
 
-Phase 2A drafted and tested sections 1–9. Phase 2B drafts and tests sections 10–15. Later phases will add channel rules, legal language, production templates and governance.
+Phase 2A drafted and tested sections 1–9. Phase 2B drafted and tested sections 10–15. Phase 2C integrates sections 16–24. Later phases will add compatibility language, legal and trade mark guardrails, book-first/VAT-supportive rules, Crest terminology, naming rules, examples, rewrite library, content production system, language test, approval checklist and governance.
 
 ## Source architecture
 
@@ -713,71 +713,15 @@ ApexCrest:
 
 PASS — with one watch point.
 
-## 1. Does this differentiate ApexCrest from binders and storage products?
-
-Pass.
-
-The foundations repeatedly position ApexCrest as a premium illustrated collector book rather than storage.
-
-## 2. Does this reinforce illustrated collector book positioning?
-
-Pass.
-
-The book-first idea appears throughout Purpose, Positioning, Voice Philosophy and Editorial Principles.
-
-## 3. Does this support cross-franchise use without sounding generic?
-
-Pass.
-
-The guide anchors the voice in collector emotion rather than franchise language.
-
-## 4. Does this remain emotionally authentic rather than luxury marketing?
-
-Pass.
-
-The voice is warm, reverent and plain-spoken, not fake-premium.
-
-## 5. Does this align with the ten emotional worlds?
-
-Pass.
-
-The foundations support worlds, emotional landscapes and card selection by feeling.
-
-## 6. Does this support the core line?
-
-Pass.
-
-The phrase `For the cards that earned their place` is structurally supported by the Curator archetype, meaning-before-value principle and world-before-slot principle.
-
-## 7. Does this avoid narrowing to one TCG?
-
-Pass.
-
-The guide explicitly prevents imitation of any one franchise.
-
-## 8. Does this strengthen VAT-conscious book-first positioning?
-
-Pass.
-
-The voice avoids storage-first framing and reinforces the book as meaningful before cards are added.
-
-This is not tax advice, but the language direction is aligned with the current VAT-conscious product strategy.
+The Phase 2A foundations differentiate ApexCrest from binders and storage products, reinforce illustrated collector book positioning, support cross-franchise use without sounding generic, remain emotionally authentic rather than luxury-marketing-led, align with the ten emotional worlds, support the core line, avoid narrowing to one TCG and strengthen book-first positioning.
 
 ## Watch point
 
-There is one future risk: the phrase `lightly mythic` must be controlled in later sections.
-
-If used too heavily, the voice could drift toward fantasy-novel language or Magic/Lorcana-adjacent territory.
-
-Mitigation will be handled in Phase 2B through vocabulary controls, cadence rules and banned-language guidance.
+The phrase `lightly mythic` must be controlled in later sections so the voice does not drift toward fantasy-novel language or Magic/Lorcana-adjacent territory.
 
 ## Foundation Freeze Recommendation
 
-The Phase 2A Foundations are strong enough to proceed to Phase 2B.
-
-Once approved, these foundations should be treated as frozen.
-
-Future changes should only be made if there is compelling evidence that they materially improve the system.
+The Phase 2A Foundations are strong enough to proceed. Once approved, these foundations should be treated as frozen. Future changes should only be made if there is compelling evidence that they materially improve the system.
 
 ---
 
@@ -1750,43 +1694,7 @@ If it sounds emotional but less true, cut it.
 
 PASS — with two watch points.
 
-## 1. Does Phase 2B control the `lightly mythic` risk identified in Phase 2A?
-
-Pass.
-
-The guide now clearly states that mythic language is seasoning, not structure. It bans over-poetic and fantasy-novel language and provides safer alternatives.
-
-## 2. Does the language engine protect ApexCrest from franchise imitation?
-
-Pass.
-
-The avoid vocabulary explicitly excludes franchise-coded terminology, slogan-adjacent language and official role/mechanic terms.
-
-## 3. Does it preserve collector authenticity?
-
-Pass.
-
-The canonical and careful vocabulary include collector-native terms such as card, collection, collector, favourite, rarity, pull, chase, artwork and memory.
-
-## 4. Does it remain book-first and VAT-conscious?
-
-Pass.
-
-The language hierarchy prioritises meaning, world and book before function or compatibility. Storage-first terms are restricted to functional contexts.
-
-This is not tax advice, but the wording strategy remains aligned with the current book-first product positioning.
-
-## 5. Does it support scalable content production?
-
-Pass.
-
-The tiered vocabulary system, cadence rules and rewrite logic give future writers repeatable controls.
-
-## 6. Does it remain mass-market clear?
-
-Pass.
-
-The grammar and style rules enforce plain English, restrained punctuation and clarity over cleverness.
+Phase 2B controls the `lightly mythic` risk identified in Phase 2A, protects ApexCrest from franchise imitation, preserves collector authenticity, remains book-first, supports scalable content production and remains mass-market clear.
 
 ## Watch point 1
 
@@ -1804,26 +1712,649 @@ Mitigation:
 
 Phase 2C channel rules must clearly separate emotional copy from functional clarification.
 
-## Phase 2B recommendation
+---
 
-Phase 2B is strong enough to proceed to Phase 2C — Channel Rules.
+# 16. Book Voice
 
-Do not merge until the PR has been reviewed and approved.
+## Role
+
+Book voice is the purest expression of ApexCrest.
+
+It should feel composed, reflective, page-aware and emotionally restrained.
+
+The book voice must make the publication feel complete before cards are added.
+
+## Use
+
+Use book voice for:
+
+- introductory pages
+- world introductions
+- transition pages
+- closing pages
+- reflection pages
+- in-book captions
+- short editorial notes
+
+## Tone
+
+Book voice should be:
+
+- warm
+- reverent
+- quiet
+- precise
+- visual
+- meaning-led
+- lightly mythic but plain
+
+## Rules
+
+Book voice must prioritise:
+
+1. Meaning
+2. World
+3. Illustration
+4. Page
+5. Card
+
+It must not lead with:
+
+- slot
+- holder
+- insert
+- mount
+- storage
+- compatibility
+- price/value
+- completion pressure
+
+## Strong example
+
+> Some cards feel different from the moment you keep them.  
+> Not because they are the rarest, but because they seem to carry something with them.  
+> Choose the world that feels right.  
+> Give that card a place of its own.
+
+## Weak example
+
+> Insert your best card into this premium display slot.
+
+## In-book rule
+
+The book should never sound as though it is waiting to become useful.
+
+It is already useful as a reading and visual object.
+
+The card completes a relationship with the page; it does not complete the book.
+
+---
+
+# 17. Packaging Voice
+
+## Role
+
+Packaging voice must explain the product quickly while preserving premium book-first positioning.
+
+Packaging has less room than the book, so it must be clear, direct and restrained.
+
+## Use
+
+Use packaging voice for:
+
+- front cover
+- back cover
+- belly band
+- removable sticker
+- internal card
+- packaging insert
+- retail sleeve
+
+## Tone
+
+Packaging voice should be:
+
+- concise
+- confident
+- premium
+- practical enough to understand
+- not hype-led
+
+## Front-cover rule
+
+The front cover should lead with ApexCrest and the book idea, not franchise compatibility.
+
+Strong front-cover language:
+
+> ApexCrest  
+> An illustrated collector book  
+> For the cards that earned their place
+
+Weak front-cover language:
+
+> Compatible with Pokémon, Magic and Lorcana cards
+
+Compatibility should not become the product identity.
+
+## Back-cover rule
+
+The back cover may explain the product more directly.
+
+Strong back-cover structure:
+
+1. Emotional hook
+2. Product explanation
+3. Practical clarity
+4. Non-affiliation / compatibility language if needed
+
+## Sticker rule
+
+Stickers may clarify compatibility, but should remain generic on the front.
+
+Preferred sticker:
+
+> Fits standard TCG cards  
+> Unofficial collector book
+
+Avoid front stickers dominated by franchise names.
+
+## Weak packaging risks
+
+Avoid:
+
+- ultimate collector storage
+- card binder language
+- large franchise names
+- official-looking compatibility labels
+- too much legal copy on the emotional face of the product
+
+---
+
+# 18. Website Voice
+
+## Role
+
+Website voice must convert interest into understanding.
+
+It should be warmer and more practical than book voice, but still recognisably ApexCrest.
+
+## Use
+
+Use website voice for:
+
+- homepage
+- about page
+- how it works
+- world overview
+- product pages
+- FAQs
+- compatibility pages
+- launch pages
+
+## Tone
+
+Website voice should be:
+
+- clear
+- premium
+- collector-native
+- easy to scan
+- slightly more explanatory than book copy
+
+## Homepage structure
+
+Recommended structure:
+
+1. One emotional headline
+2. One practical explanation
+3. World-system explanation
+4. Product proof
+5. How it works
+6. Compatibility clarification
+7. Call to action
+
+## Strong homepage headline
+
+> For the cards that earned their place.
+
+## Strong supporting line
+
+> ApexCrest is an illustrated collector book with ten emotional worlds for ten chosen cards.
+
+## Weak homepage line
+
+> The ultimate storage solution for trading card collectors.
+
+## Website rule
+
+The website must do what the book does not need to do: explain the product clearly.
+
+But it must not explain so mechanically that the product becomes a card accessory.
+
+---
+
+# 19. Product Description Voice
+
+## Role
+
+Product description voice must balance emotion and clarity.
+
+It should help a buyer understand what they are buying, why it matters and how it works.
+
+## Use
+
+Use product description voice for:
+
+- Shopify product pages
+- direct sales pages
+- retail descriptions
+- product cards
+- launch pages
+
+## Tone
+
+Product description voice should be:
+
+- clear
+- confident
+- benefit-led
+- book-first
+- practical where required
+
+## Recommended structure
+
+1. Emotional headline
+2. One-sentence product definition
+3. What is included
+4. How the world system works
+5. Compatibility note
+6. Why it is different from a binder
+7. Reassurance around flexibility and replaceability
+
+## Strong product description opening
+
+> Every collection has cards that feel different.  
+> ApexCrest gives ten of them a world of their own.
+
+## Functional clarity example
+
+> Designed for standard-size trading cards. Cards are not included.
+
+## Weak product description opening
+
+> Holds ten cards in premium display slots.
+
+## Product description rule
+
+Function is allowed, but meaning must lead.
+
+---
+
+# 20. Retail Marketplace Voice
+
+## Role
+
+Retail marketplace voice must work inside search-driven environments without sacrificing ApexCrest positioning.
+
+Marketplaces need clarity, keywords and buyer confidence. They also create the greatest risk of sliding into storage-first language.
+
+## Use
+
+Use marketplace voice for:
+
+- Amazon
+- Etsy
+- Shopify listings
+- eBay, if used
+- third-party retailer listings
+
+## Tone
+
+Marketplace voice should be:
+
+- searchable
+- practical
+- legally careful
+- clear
+- still premium
+
+## Marketplace compromise
+
+Marketplace copy may use some functional terms for discovery and clarity, such as:
+
+- trading card book
+- collector book
+- standard TCG cards
+- card display
+- gift for card collectors
+
+But these should be balanced with book-first language.
+
+## Recommended title pattern
+
+> ApexCrest Illustrated Collector Book for Standard TCG Cards — 10 Worlds for 10 Chosen Cards
+
+## Avoid title pattern
+
+> Pokémon Card Binder Album Holder Storage Book
+
+## Bullet rule
+
+Marketplace bullets should alternate between practical clarity and emotional value.
+
+Example:
+
+- Illustrated collector book with ten emotional worlds.
+- Designed for standard-size trading cards.
+- Created for cards chosen by meaning, memory, artwork or rarity.
+- Cards can be replaced as your collection changes.
+- Unofficial product; cards not included.
+
+## Marketplace risk rule
+
+Do not let marketplace SEO rewrite the brand.
+
+Search terms can appear, but ApexCrest must not become a binder brand in its own copy.
+
+---
+
+# 21. Social Media Voice
+
+## Role
+
+Social media voice must create recognition quickly.
+
+It should invite collectors to think about their own cards, not just admire the product.
+
+## Use
+
+Use social voice for:
+
+- Instagram captions
+- TikTok captions
+- YouTube Shorts
+- reels
+- launch posts
+- world reveals
+- behind-the-scenes posts
+- polls and questions
+
+## Tone
+
+Social voice should be:
+
+- immediate
+- warm
+- reflective
+- collector-native
+- visually led
+- restrained but not stiff
+
+## Strong social hooks
+
+> Which world would your favourite card choose?
+
+> Not your rarest card. The one that stayed with you.
+
+> Some cards do not belong in a stack.
+
+> Ten worlds. Ten chosen cards. No wrong answers.
+
+## Weak social hooks
+
+> Level up your collection today!
+
+> The ultimate TCG display system is here!
+
+> Catch your favourites before they are gone!
+
+## Social rhythm
+
+Good ApexCrest social copy should usually:
+
+1. Start with collector recognition.
+2. Show a world or page.
+3. Ask a simple question or make a quiet claim.
+
+## Social rule
+
+Do not chase trends at the cost of brand tone.
+
+ApexCrest can be current without becoming noisy.
+
+---
+
+# 22. Email Voice
+
+## Role
+
+Email voice must build trust and momentum.
+
+It should feel personal enough to read, but not overly casual or salesy.
+
+## Use
+
+Use email voice for:
+
+- launch announcements
+- waitlist updates
+- product availability
+- abandoned basket
+- order follow-up
+- founder notes
+- customer education
+
+## Tone
+
+Email voice should be:
+
+- clear
+- warm
+- lightly personal
+- restrained
+- useful
+
+## Subject line rules
+
+Subject lines should be simple and recognisable.
+
+Strong:
+
+> ApexCrest is nearly ready
+
+> The first ten worlds are opening
+
+> A collector book for the cards that earned their place
+
+Weak:
+
+> You NEED this ultimate collector drop
+
+> Last chance to unlock the magic
+
+## Email body structure
+
+Recommended structure:
+
+1. Recognition line
+2. Simple update
+3. Why it matters
+4. Clear next action
+5. Calm sign-off
+
+## Email rule
+
+Email can be warmer than the book, but it should not become chatty marketing.
+
+---
+
+# 23. Customer Support Voice
+
+## Role
+
+Customer support voice must prioritise clarity.
+
+Support is not the place for mythic language.
+
+## Use
+
+Use support voice for:
+
+- order questions
+- compatibility questions
+- returns
+- replacement queries
+- card-fit questions
+- damaged product issues
+- delivery issues
+- FAQs
+
+## Tone
+
+Support voice should be:
+
+- plain
+- helpful
+- calm
+- specific
+- practical
+
+## Strong support example
+
+> ApexCrest is designed for standard-size trading cards. Cards are not included. We recommend using a sleeved card where possible, and you can replace the card later if your collection changes.
+
+## Weak support example
+
+> Your chosen card may enter whichever world calls to it across the collector journey.
+
+## Support rule
+
+When a customer needs help, clarity outranks brand atmosphere.
+
+The support voice should still be warm, but it must never become vague.
+
+---
+
+# 24. Founder Voice
+
+## Role
+
+Founder voice allows more human context without weakening the premium brand.
+
+It is useful for behind-the-scenes content, early launches, updates and explaining product decisions.
+
+## Use
+
+Use founder voice for:
+
+- behind-the-scenes videos
+- launch updates
+- product decisions
+- design explanations
+- manufacturing updates
+- community posts
+- story-led emails
+
+## Tone
+
+Founder voice should be:
+
+- honest
+- plain-spoken
+- thoughtful
+- practical
+- calm
+- slightly more conversational than brand copy
+
+## Founder voice may say
+
+> We wanted ApexCrest to feel like a book first, not a binder with artwork around it.
+
+> The hardest part was making the worlds feel universal enough for different collectors, but specific enough to feel special.
+
+> We kept coming back to one idea: some cards earn a different kind of place.
+
+## Founder voice should avoid
+
+- overexplaining every internal decision
+- sounding uncertain about the product
+- criticising existing collectors or binders
+- sounding too casual or chaotic
+- copying the in-book poetic register
+
+## Founder voice rule
+
+Founder content can reveal the thinking behind the product, but it should not make the brand feel unfinished.
+
+Be human, but preserve confidence.
+
+---
+
+# Phase 2C Channel Rules Audit
+
+## Audit status
+
+PASS — canonical integration complete for sections 16–24.
+
+## 1. Does Phase 2C preserve the core ApexCrest voice across channels?
+
+Pass.
+
+Each channel inherits the same centre: meaning before value, worlds before slots, book-first before storage-first.
+
+## 2. Does it separate emotional and functional copy?
+
+Pass.
+
+Book, packaging and website rules protect emotional positioning, while product, marketplace and support rules allow practical clarity.
+
+## 3. Does it control marketplace risk?
+
+Pass.
+
+The marketplace section allows necessary search language but explicitly prevents SEO from redefining ApexCrest as a binder/storage product.
+
+## 4. Does it support legal and franchise-distance discipline?
+
+Pass.
+
+Packaging, marketplace and social sections avoid front-facing franchise dominance and slogan-adjacent hooks.
+
+## 5. Does it preserve mass-market clarity?
+
+Pass.
+
+Website, product, marketplace and support sections are clear enough for non-expert buyers.
+
+## 6. Does it keep founder content useful without damaging premium perception?
+
+Pass.
+
+Founder voice is allowed to be more human, but not chaotic, uncertain or over-casual.
+
+## Integration audit
+
+Pass.
+
+Sections 16–24 have been integrated directly into the canonical guide. The Phase 2C companion file remains available as review evidence.
 
 ---
 
 # Next Phase
 
-Proceed to Phase 2C — Channel Rules.
+Proceed to Phase 2D — Legal, Book-First and Governance Rules.
 
 This will draft:
 
-16. Book Voice
-17. Packaging Voice
-18. Website Voice
-19. Product Description Voice
-20. Retail Marketplace Voice
-21. Social Media Voice
-22. Email Voice
-23. Customer Support Voice
-24. Founder Voice
+25. Compatibility Language Rules
+26. Legal & Trade Mark Guardrails
+27. Book-First & VAT-Supportive Language Rules
+28. Crest / Crested / Crest-worthy Canon
+29. Naming & Tagline Rules
+30. Example Library
+31. Rewrite Library
+32. Content Production System
+33. ApexCrest Language Test
+34. Approval Checklist
+35. Governance & Change Control
+36. Version History

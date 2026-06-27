@@ -6,7 +6,7 @@ Current design guardrail, not tax advice.
 
 A written VAT specialist opinion is still required before relying on zero-rating.
 
-Updated after the A5 wallet prototype review on 2026-06-27.
+Updated after the A5 wallet prototype review and 64-page book-map decision on 2026-06-27.
 
 ## Core position
 
@@ -56,7 +56,8 @@ The book must be judged on its own qualities without inserted cards.
 - The book must still feel complete and valuable without any cards inserted.
 - Card placement must be secondary to the illustrated world-book experience.
 - Card display pages must remain clearly below 25% of the whole publication.
-- The first edition should target 48–56 pages, with 56 pages preferred.
+- The first edition should target **64 pages preferred**, with **56 pages minimum fallback only if production cost requires it**.
+- 48 pages is no longer the preferred first-edition structure.
 - Each world should use a 4-page chapter rhythm: entry, authored text, full illustration, centred card display.
 - Only 1 page per world should be card-display-led.
 - The full illustration should face the centred card display page to create the hero display spread.
@@ -67,6 +68,7 @@ The book must be judged on its own qualities without inserted cards.
 ### Must not do
 
 - Do not build a 20-page or 40-page first-edition structure.
+- Do not use 48 pages as the default/preferred first-edition structure.
 - Do not let card display pages reach 25% or more of total pages.
 - Do not make every page in a world chapter lead towards card selection.
 - Do not put meaningful side text beside the card wallet on A5.
@@ -97,17 +99,35 @@ This creates two double-page spreads:
 
 First edition should target:
 
-- **48–56 pages total**
-- **56 pages preferred**
+- **64 pages preferred**
+- **56 pages minimum fallback only if production cost requires it**
 - **10 card display pages maximum**
-- card display pages ideally around 18–21% of total pages
+- 64 pages with 10 card display pages = **15.6% card-display-led pages**
+- 56 pages with 10 card display pages = **17.9% card-display-led pages**
 - no version where card display pages are 25% or more of the book
+
+The previous 48–56 page target is superseded.
+
+48 pages may only be reconsidered after print-cost review and VAT specialist review.
 
 Conservative counting rule:
 
 Treat each full card display page as set aside for card display, even if the physical wallet area is smaller.
 
 Do not rely only on the physical wallet area calculation.
+
+## 64-page book-first rationale
+
+The 64-page map is preferred because it creates more obvious book-first substance:
+
+- 8 pages front matter
+- 40 pages world chapters
+- 16 pages back matter / closing book content
+- 54 pages that are not card-display-led
+- 10 card display pages maximum
+- card display pages at 15.6% of total pages
+
+This gives ApexCrest a stronger distance from the 25% picture-card/stamp-album risk area than the earlier 48–56 page range.
 
 ## Reading matter requirement
 
@@ -225,5 +245,7 @@ ApexCrest is not a card album.
 ApexCrest is a premium illustrated collector-world book.
 
 The card display pages are optional personalisation/display moments inside a complete illustrated book.
+
+64 pages is the preferred first-edition structure.
 
 If the product feels empty, unfinished, or primarily waiting for cards, redesign it.

@@ -158,3 +158,24 @@ Current strongest benchmarks:
 - **Ember Crest** — For the card that still glows after the moment has passed.
 - **Sanctuary Crest** — For the card that feels like home.
 - **Summit Crest** — For the card that proves the climb was worth it.
+
+## 2026-06-27 — Coral Tide stack locked as current working set
+
+The Lagoon world stack was reworked because **Lagoon Celebration** sounded weak and event-like, while the Crest name needed to stay clearly married to the world name.
+
+Current working stack:
+
+- World: **Coral Tide**
+- Place: **Coralswell Lagoon**
+- World Crest: **Coral Crest**
+- Feeling line: **For the card that feels like joy you wanted to keep.**
+
+Decision:
+
+- **Lagoon Celebration** is superseded.
+- **Shellwater Cove** is superseded for this world because it introduced a third identity.
+- **Lagoon Crest** is superseded because the Crest name must come from, or clearly belong to, the world name.
+- **Coral Tide / Coralswell Lagoon / Coral Crest** is the current working set.
+- Illustration direction should remain blue/turquoise water-led, with coral pink reef/accent elements rather than an all-pink coral page.
+
+This stack may still be reopened during later visual testing, but it is the current working lock.

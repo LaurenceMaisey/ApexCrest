@@ -8,7 +8,7 @@ Date locked: 2026-06-27
 
 This file upgrades the ApexCrest world-chapter structure from a simple page layout into a repeatable collector ritual.
 
-Place names listed here are a **provisional working set**, not final manuscript locks.
+Names listed here are a **working set**, not final manuscript locks.
 
 ## Core decision
 
@@ -42,7 +42,7 @@ Page 4 is never just “the card page” in customer-facing language.
 It is named as the world’s Crest:
 
 - Ember Crest
-- Lagoon Crest
+- Coral Crest
 - Forest Crest
 - Moonlight Crest
 - Prism Crest
@@ -51,6 +51,8 @@ It is named as the world’s Crest:
 - Celestial Crest
 - Summit Crest
 - Sanctuary Crest
+
+The Crest name must be married to the world name. It should use the first word, one of the main words, or a clearly related root from the world name plus **Crest**.
 
 This is the cleanest naming system because it keeps **Crest** attached to symbolic recognition and book identity, not storage mechanics.
 
@@ -215,7 +217,7 @@ Customer-facing language should use emotional/book-first terms:
 - The Gate
 - The Meaning
 - The Reveal
-- Ember Crest / Lagoon Crest / Forest Crest etc.
+- Ember Crest / Coral Crest / Forest Crest etc.
 - World Crest
 - Crest page
 - personal display space
@@ -254,7 +256,7 @@ Final lines are locked in:
 Current set:
 
 - Ember Crest: **For the card that still glows after the moment has passed.**
-- Lagoon Crest: **For the card that feels like joy you wanted to keep.**
+- Coral Crest: **For the card that feels like joy you wanted to keep.**
 - Forest Crest: **For the card that brings an old memory back.**
 - Moonlight Crest: **For the card that reveals more the longer you look.**
 - Prism Crest: **For the card that changes every time the light finds it.**
@@ -264,22 +266,22 @@ Current set:
 - Summit Crest: **For the card that proves the climb was worth it.**
 - Sanctuary Crest: **For the card that feels like home.**
 
-## Place-name refinement
+## Current working name set
 
-The current provisional first-edition place names are:
+The current working first-edition names are:
 
-- Ember Tribute — **Volcanic Valley**
-- Lagoon Celebration — **Shellwater Cove**
-- Forest Remembrance — **The Elder Root**
-- Moonlight Discovery — **The Moonlit Arches**
-- Prism Harmony — **The Refraction Pools**
-- Storm Ascent — **Storm Coast**
-- Frost Resolve — **Frozen Lake**
-- Celestial Wonder — **Still Reach**
-- Summit Achievement — **The Last Ridge**
-- Sanctuary Legacy — **Inner Sanct**
+- Ember Tribute — **Volcanic Valley** — Ember Crest
+- Coral Tide — **Coralswell Lagoon** — Coral Crest
+- Forest Remembrance — **The Elder Root** — Forest Crest
+- Moonlight Discovery — **The Moonlit Arches** — Moonlight Crest
+- Prism Harmony — **The Refraction Pools** — Prism Crest
+- Storm Ascent — **Storm Coast** — Storm Crest
+- Frost Resolve — **Frozen Lake** — Frost Crest
+- Celestial Wonder — **Still Reach** — Celestial Crest
+- Summit Achievement — **The Last Ridge** — Summit Crest
+- Sanctuary Legacy — **Inner Sanct** — Sanctuary Crest
 
-These place names are recorded as the current working set and may be reopened after the world-name audit, visual testing, or chapter prototyping.
+These names are recorded as the current working set and may be reopened after the world-name audit, visual testing, or chapter prototyping.
 
 ## Mass-market clarity test
 

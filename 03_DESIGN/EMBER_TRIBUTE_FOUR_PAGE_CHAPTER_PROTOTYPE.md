@@ -2,13 +2,15 @@
 
 ## Status
 
-Prototype v0.1.
+Prototype v0.2.
 
 Date created: 2026-06-27
 
+Updated after the ritual-anatomy lock.
+
 This is the first complete world-chapter test for the 64-page ApexCrest first edition.
 
-It is not final artwork and not final manuscript copy. It is the working prototype used to test whether the locked 4-page / 2-spread world structure works in practice.
+It is not final artwork and not final manuscript copy. It is the working prototype used to test whether the locked 4-page / 2-spread ritual structure works in practice.
 
 ## Purpose
 
@@ -22,17 +24,17 @@ It must prove that ApexCrest can deliver:
 2. world-specific atmosphere;
 3. authored reading matter;
 4. a premium hero illustration;
-5. a centred card display page that still feels finished when empty;
+5. a Crest page that still feels finished when empty;
 6. no album, binder, scrapbook, workbook, or storage-product behaviour.
 
 ## Location in 64-page map
 
 Ember Tribute occupies pages 9–12 of the preferred 64-page first edition.
 
-- Page 9: quiet Ember entry page
-- Page 10: authored Ember reading page
-- Page 11: full Ember illustration page
-- Page 12: centred Ember card display page
+- Page 9: **The Gate**
+- Page 10: **The Meaning**
+- Page 11: **The Reveal**
+- Page 12: **The Crest**
 
 ## World lock
 
@@ -47,6 +49,10 @@ Place name:
 Primary emotion:
 
 **passion / force / transformation**
+
+Dominance line:
+
+**For the card that still glows after the moment has passed.**
 
 Visual keywords:
 
@@ -66,7 +72,7 @@ The chapter must use two intensity registers, not two different styles.
 
 ### Quiet register
 
-Used on pages 9–10.
+Used on The Gate and The Meaning.
 
 The quiet register should feel restrained, premium, readable, and Ember-specific.
 
@@ -85,19 +91,27 @@ It must not become generic parchment fantasy styling.
 
 ### Hero register
 
-Used on pages 11–12.
+Used on The Reveal and The Crest.
 
 The hero register should feel cinematic, atmospheric, and higher intensity.
 
 It must still share the same palette, typography logic, border language, material texture, and emotional identity as the quiet spread.
 
-## Spread 1 — Book-first spread
+## Spread 1 — Gate + Meaning
 
-### Page 9 — Quiet world entry page
+This is the book-first spread.
+
+It must establish Ember as a place and feeling before any display moment appears.
+
+### Page 9 — The Gate
+
+Former internal name:
+
+- quiet world entry page
 
 Purpose:
 
-Introduce Ember as a place before introducing any display moment.
+Introduce Ember as a place the reader enters.
 
 Required elements:
 
@@ -116,7 +130,7 @@ Suggested page text:
 
 **Volcanic Valley**
 
-Optional small line:
+Small line:
 
 **Where pressure leaves a glow.**
 
@@ -126,29 +140,31 @@ A quiet volcanic page. Dark ash ground, faint fire-river lines, copper border ac
 
 The page should feel like the beginning of an illustrated book chapter, not a divider page in a card album.
 
-### Page 10 — Authored Ember reading page
+### Page 10 — The Meaning
+
+Former internal name:
+
+- authored Ember reading page
 
 Purpose:
 
 Provide standalone reading matter with value in its own right.
 
-The text must read like authored book content, not a card-selection instruction.
+The text must define what Ember is for, without instructing the reader to place a card.
 
 Draft copy:
 
-**Ember is the world of heat before light.**
+**Ember is for the card that still glows after the moment has passed.**
 
 A valley of ash, black stone and slow rivers of magma, where pressure is not hidden but made visible.
 
-Nothing here is accidental. Every glow has survived weight. Every path has been cut through resistance.
+Every glow here has survived weight. Every path has been cut through resistance.
 
-This is a place for force without noise, for change that leaves a mark, for the moment something ordinary becomes impossible to ignore.
+This is the world of first impact, fierce attachment and change that leaves a mark.
 
-Ember does not soften its meaning. It carries the feeling of first impact, sudden belief, fierce attachment, and the kind of value that remains after the heat has passed.
+Not every card belongs in Ember.
 
-Here, rarity is not the only measure.
-
-The measure is pressure, transformation and the glow that remains.
+Only the one that still carries heat.
 
 Design direction:
 
@@ -156,13 +172,23 @@ Readable text page with restrained Ember atmosphere. Keep the background quiet e
 
 Do not add prompts or lines.
 
-## Spread 2 — Hero display spread
+## Spread 2 — Reveal + Crest
 
-### Page 11 — Full Ember illustration page
+This is the hero product spread.
+
+The Reveal page provides the full world.
+
+The Crest page gives the selected card a place of recognition.
+
+### Page 11 — The Reveal
+
+Former internal name:
+
+- full Ember illustration page
 
 Purpose:
 
-Deliver the full world reveal and create the strongest facing-page relationship with the card display page.
+Deliver the full world reveal and create the strongest facing-page relationship with The Crest.
 
 Required elements:
 
@@ -181,18 +207,23 @@ Composition notes:
 
 - avoid visual clutter near the gutter
 - keep the most cinematic glow moving towards the outer half of the page
-- use the valley shape to lead the eye towards the facing card display page
+- use the valley shape to lead the eye towards the facing Crest page
 - maintain premium restraint; not fantasy chaos
 
-### Page 12 — Centred Ember card display page
+### Page 12 — The Crest
+
+Former internal name:
+
+- centred card display page
 
 Purpose:
 
-Create a premium centred display moment while keeping the page finished and meaningful when empty.
+Create the symbolic recognition moment while keeping the page finished and meaningful when empty.
 
 Required elements:
 
-- centred wallet/display area
+- finished Ember Crest page design
+- centred personal display area
 - minimal Ember title/subtitle only if needed
 - subtle world echo around the display area
 - visible finished-page design behind and around the empty display space
@@ -207,13 +238,13 @@ Suggested page text:
 
 **Volcanic Valley**
 
-Optional small line:
+Small line:
 
-**Pressure leaves a mark.**
+**For the card that still glows after the moment has passed.**
 
 Design direction:
 
-The empty display page should look like a finished Ember plate, not a missing-card placeholder.
+The empty Crest page should look like a finished Ember plate, not a missing-card placeholder.
 
 Use a quiet volcanic plinth or crest-frame behind the clear wallet. Add faint magma-vein lines, ash texture, ember flecks, and a premium border. The card area should feel honoured, not stored.
 
@@ -221,7 +252,7 @@ The wallet/pocket must visually sit inside the artwork system rather than lookin
 
 ## Empty-page test
 
-Page 12 must pass this test:
+The Crest page must pass this test:
 
 **If no card is inserted, does this still look like a finished illustrated page?**
 
@@ -229,19 +260,35 @@ If no, redesign.
 
 ## Full-spread test
 
-Pages 11–12 must pass this test:
+The Reveal + Crest spread must pass this test:
 
-**Does the full illustration facing the centred display page feel like the hero moment of the chapter?**
+**Does the full illustration facing the Crest page feel like the hero moment of the chapter?**
 
 If no, redesign.
 
 ## Book-first test
 
-Pages 9–10 must pass this test:
+The Gate + Meaning spread must pass this test:
 
 **Would these pages still make sense in an illustrated book with no cards inserted anywhere?**
 
 If no, rewrite or redesign.
+
+## Instant-fit test
+
+The chapter must make the customer think:
+
+**I know exactly which card belongs here.**
+
+If the customer cannot instantly imagine the right kind of card for Ember, the Meaning page and Crest line need sharpening.
+
+## Binder-distance test
+
+The chapter must make the customer feel:
+
+**A binder does not do this.**
+
+If it feels like decorative storage, redesign.
 
 ## VAT-safe / book-first guardrails
 
@@ -270,25 +317,27 @@ This prototype may include:
 
 When this chapter reaches layout prototype, test:
 
-1. Does the Page 12 wallet look premium when empty?
+1. Does The Crest look premium when empty?
 2. Does the card slide in smoothly without bending?
 3. Does the wallet sit flat enough in the book?
 4. Does the page turn cleanly with a card inserted?
 5. Does the facing spread still feel like a book, not an album?
 6. Does the display hardware overpower the illustration?
 7. Does the Ember quiet spread feel like the same world as the hero spread?
+8. Does the chapter create the instant reaction: “I know which card belongs here”?
 
 ## Prototype success criteria
 
 This chapter passes if:
 
-- Page 9 feels like a premium world-entry page.
-- Page 10 reads like real book content.
-- Page 11 works as a full illustrated plate.
-- Page 12 looks finished empty and strong with a card inserted.
+- The Gate feels like a premium world-entry page.
+- The Meaning reads like real book content.
+- The Reveal works as a full illustrated plate.
+- The Crest looks finished empty and strong with a card inserted.
 - The chapter feels complete without cards.
 - The card display feels special but secondary.
 - The spread does not feel like binder, album, scrapbook, workbook, or storage product design.
+- The customer can instantly imagine which card belongs in Ember.
 
 ## Final prototype rule
 

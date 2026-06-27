@@ -164,6 +164,43 @@ Risky language:
 - organiser
 - checklist book
 
+## Locked public line
+
+**Some cards deserve more than a binder. They deserve a Crest.**
+
+This line is VAT-supportive because it pushes the product away from binder, album, storage, and holder framing.
+
+It also allows **Crest** to refer to both:
+
+1. the ApexCrest book/product; and
+2. a symbolic mark of honour, recognition, earned place, and significance.
+
+## Crest language VAT rule
+
+Official Crest language must support the argument that ApexCrest is a book-first recognition object, not a card-management system.
+
+Use Crest language for:
+
+- recognition
+- honour
+- earned place
+- meaning
+- book identity
+- collector significance
+
+Do not use Crest language officially for:
+
+- inserting
+- storing
+- swapping
+- upgrading
+- organising
+- cataloguing
+- protecting
+- capacity claims
+
+The market may create its own slang, but ApexCrest-owned copy, packaging, product instructions, adverts, website copy, and influencer briefs must preserve the book-first meaning.
+
 ## Photography and listing rule
 
 Product photography must show the book complete without cards.

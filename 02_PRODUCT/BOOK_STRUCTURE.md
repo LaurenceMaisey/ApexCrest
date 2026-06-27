@@ -2,7 +2,7 @@
 
 ## Status
 
-Locked current first-edition structure, updated after the A5 wallet prototype review, 64-page book-map decision, and ritual-anatomy lock on 2026-06-27.
+Locked current first-edition structure, updated after the A5 wallet prototype review, 64-page book-map decision, ritual-anatomy lock, and World Crest / feeling-line refinement on 2026-06-27.
 
 ## Core structure
 
@@ -42,11 +42,15 @@ Each world receives **4 pages** arranged as **two double-page spreads**.
 
 The locked ritual anatomy is:
 
-**Gate → Meaning → Reveal → Crest**
+**Gate → Meaning → Reveal → World Crest**
 
 The full ritual anatomy is locked in:
 
 `02_PRODUCT/WORLD_CHAPTER_RITUAL_ANATOMY.md`
+
+World names, place names, World Crest names, and feeling lines are locked in:
+
+`02_PRODUCT/WORLD_CRESTS_AND_FEELING_LINES.md`
 
 ### Spread 1 — Gate + Meaning
 
@@ -78,7 +82,7 @@ Former internal name: authored world reading page.
 - no tick boxes
 - no card-led wording
 
-### Spread 2 — Reveal + Crest
+### Spread 2 — Reveal + World Crest
 
 This spread is the hero product moment.
 
@@ -89,9 +93,9 @@ Former internal name: full world illustration page.
 - full cinematic emotional landscape
 - the main visual world reveal
 - strong enough to work without any card inserted
-- designed as the marketing/customer “money shot” when paired with the Crest page
+- designed as the marketing/customer “money shot” when paired with the World Crest page
 
-**Page 4: The Crest**
+**Page 4: The World Crest**
 
 Former internal name: centred card display page.
 
@@ -111,9 +115,9 @@ This order gives ApexCrest both requirements:
 1. **Book-first credibility** — the world begins with atmosphere and authored meaning before any display moment appears.
 2. **Premium hero impact** — the chosen card still sits opposite the full world illustration, creating the strongest customer and marketing spread.
 
-The Crest page must not be the first or only meaningful page in the chapter.
+The World Crest page must not be the first or only meaningful page in the chapter.
 
-The Reveal must face The Crest because that is the strongest emotional product moment.
+The Reveal must face the World Crest because that is the strongest emotional product moment.
 
 ## Visual register rule
 
@@ -129,7 +133,7 @@ For Ember, this means ash, charcoal, ember flecks, copper linework, faint volcan
 
 ### Hero register
 
-Used on The Reveal and The Crest.
+Used on The Reveal and The World Crest.
 
 It should be cinematic, atmospheric, and more intense, while still using the same palette, typography, border logic, and world identity.
 
@@ -144,13 +148,13 @@ Each world receives:
 - one Gate page
 - one Meaning page
 - one Reveal page
-- one Crest page
-- one centred personal display area inside the Crest page
+- one World Crest page
+- one centred personal display area inside the World Crest page
 - controlled page echoes across the chapter
 
 ## Why 10 Crests
 
-10 Crest pages is the correct first-edition limit because it avoids the product becoming:
+10 World Crest pages is the correct first-edition limit because it avoids the product becoming:
 
 - a binder
 - a storage album
@@ -158,13 +162,13 @@ Each world receives:
 - physically bulky when full
 - repetitive in page rhythm
 
-The Crest pages must feel selective.
+The World Crest pages must feel selective.
 
 ApexCrest is for the cards that earned their place.
 
 ## Book-first structure
 
-The book must contain substantial illustration and authored world text beyond the Crest pages.
+The book must contain substantial illustration and authored world text beyond the World Crest pages.
 
 These pages exist to make the book feel complete and valuable even before any cards are added.
 
@@ -180,9 +184,9 @@ Current first-edition target:
 
 - **64 pages preferred**
 - **56 pages minimum fallback only if production cost requires it**
-- **10 Crest/display pages maximum**
-- 64 pages with 10 Crest/display pages = **15.6% display-led pages**
-- 56 pages with 10 Crest/display pages = **17.9% display-led pages**
+- **10 World Crest/display pages maximum**
+- 64 pages with 10 World Crest/display pages = **15.6% display-led pages**
+- 56 pages with 10 World Crest/display pages = **17.9% display-led pages**
 - display-led pages must remain clearly below 25% of the total page count
 - additional intro, world map, transition, and closing pages must support book-first character
 
@@ -213,21 +217,22 @@ The full pagination map is locked in:
 
 `02_PRODUCT/FIRST_EDITION_64_PAGE_BOOK_MAP.md`
 
-## Crest page rule
+## World Crest page rule
 
-Crest pages are special moments, not repeated storage positions.
+World Crest pages are special moments, not repeated storage positions.
 
 No additional Crest/display pages may be added without reopening the product architecture decision.
 
-The Crest page may include:
+The World Crest page may include:
 
-- world title
-- world subtitle
+- World Crest name
+- place subtitle
 - small ApexCrest mark
 - subtle world echo
 - centred personal display area
+- feeling line
 
-The Crest page must not include:
+The World Crest page must not include:
 
 - long text beside the card
 - “write here” areas
@@ -243,7 +248,8 @@ Prefer:
 - The Gate
 - The Meaning
 - The Reveal
-- The Crest
+- Ember Crest / Lagoon Crest / Forest Crest etc.
+- World Crest
 - Crest page
 - personal display space
 - earned place
@@ -268,16 +274,16 @@ Internal production notes may use practical language where needed, but customer-
 
 ## World-to-Crest map
 
-1. Ember Tribute — 1 Crest page
-2. Lagoon Celebration — 1 Crest page
-3. Forest Remembrance — 1 Crest page
-4. Moonlight Discovery — 1 Crest page
-5. Prism Harmony — 1 Crest page
-6. Storm Ascent — 1 Crest page
-7. Frost Resolve — 1 Crest page
-8. Celestial Wonder — 1 Crest page
-9. Summit Achievement — 1 Crest page
-10. Sanctuary Legacy — 1 Crest page
+1. Ember Tribute — Volcanic Valley — Ember Crest
+2. Lagoon Celebration — Shellwater Cove — Lagoon Crest
+3. Forest Remembrance — Ancient Woodland Path — Forest Crest
+4. Moonlight Discovery — The Moonlit Arches — Moonlight Crest
+5. Prism Harmony — Valley of Light — Prism Crest
+6. Storm Ascent — Storm Coast — Storm Crest
+7. Frost Resolve — Frozen Lake — Frost Crest
+8. Celestial Wonder — Starlit Lake — Celestial Crest
+9. Summit Achievement — Golden Mountain Path — Summit Crest
+10. Sanctuary Legacy — Hidden Refuge — Sanctuary Crest
 
 ## Mass-market clarity line
 
@@ -291,6 +297,6 @@ More meaning, not more slots.
 
 64 pages preferred.
 
-Gate. Meaning. Reveal. Crest.
+Gate. Meaning. Reveal. World Crest.
 
 Book first. World first. Card second.

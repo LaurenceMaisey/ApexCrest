@@ -4,7 +4,7 @@
 
 Locked current first-edition structure, updated after the A5 wallet prototype review, 64-page book-map decision, ritual-anatomy lock, and World Crest / feeling-line refinement on 2026-06-27.
 
-Place names are currently a **provisional working set**, not final manuscript locks.
+Names are currently a **working set**, not final manuscript locks.
 
 ## Core structure
 
@@ -250,7 +250,7 @@ Prefer:
 - The Gate
 - The Meaning
 - The Reveal
-- Ember Crest / Lagoon Crest / Forest Crest etc.
+- Ember Crest / Coral Crest / Forest Crest etc.
 - World Crest
 - Crest page
 - personal display space
@@ -276,10 +276,10 @@ Internal production notes may use practical language where needed, but customer-
 
 ## World-to-Crest map
 
-Current provisional place-name set:
+Current working name set:
 
 1. Ember Tribute — Volcanic Valley — Ember Crest
-2. Lagoon Celebration — Shellwater Cove — Lagoon Crest
+2. Coral Tide — Coralswell Lagoon — Coral Crest
 3. Forest Remembrance — The Elder Root — Forest Crest
 4. Moonlight Discovery — The Moonlit Arches — Moonlight Crest
 5. Prism Harmony — The Refraction Pools — Prism Crest
@@ -289,9 +289,9 @@ Current provisional place-name set:
 9. Summit Achievement — The Last Ridge — Summit Crest
 10. Sanctuary Legacy — Inner Sanct — Sanctuary Crest
 
-## Reopen rule for place names
+## Reopen rule for names
 
-The place names above may be reopened after world-name audit, visual testing, or chapter prototyping.
+The names above may be reopened after world-name audit, visual testing, or chapter prototyping.
 
 ## Mass-market clarity line
 

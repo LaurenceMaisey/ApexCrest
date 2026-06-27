@@ -285,13 +285,13 @@ Current working name set:
 5. Prism Harmony — The Refraction Pools — Prism Crest
 6. Storm Ascent — Storm Coast — Storm Crest
 7. Frost Resolve — Frozen Lake — Frost Crest
-8. Celestial Wonder — Still Reach — Celestial Crest
+8. Celestial Reach — Visual place pending — Celestial Crest
 9. Summit Achievement — The Last Ridge — Summit Crest
 10. Sanctuary Legacy — Inner Sanct — Sanctuary Crest
 
 ## Reopen rule for names
 
-The names above may be reopened after world-name audit, visual testing, or chapter prototyping.
+The names above may be reopened after world-name audit, visual testing, or chapter prototyping. Celestial Reach has a locked working world name, but its place subtitle is intentionally pending until visual direction is clearer.
 
 ## Mass-market clarity line
 

@@ -4,6 +4,8 @@
 
 Locked current first-edition structure, updated after the A5 wallet prototype review, 64-page book-map decision, ritual-anatomy lock, and World Crest / feeling-line refinement on 2026-06-27.
 
+Place names are currently a **provisional working set**, not final manuscript locks.
+
 ## Core structure
 
 **10 Worlds. 10 Crests. 64-page preferred first edition.**
@@ -48,7 +50,7 @@ The full ritual anatomy is locked in:
 
 `02_PRODUCT/WORLD_CHAPTER_RITUAL_ANATOMY.md`
 
-World names, place names, World Crest names, and feeling lines are locked in:
+World names, provisional place names, World Crest names, and feeling lines are recorded in:
 
 `02_PRODUCT/WORLD_CRESTS_AND_FEELING_LINES.md`
 
@@ -274,6 +276,8 @@ Internal production notes may use practical language where needed, but customer-
 
 ## World-to-Crest map
 
+Current provisional place-name set:
+
 1. Ember Tribute — Volcanic Valley — Ember Crest
 2. Lagoon Celebration — Shellwater Cove — Lagoon Crest
 3. Forest Remembrance — The Elder Root — Forest Crest
@@ -284,6 +288,10 @@ Internal production notes may use practical language where needed, but customer-
 8. Celestial Wonder — Still Reach — Celestial Crest
 9. Summit Achievement — The Last Ridge — Summit Crest
 10. Sanctuary Legacy — Inner Sanct — Sanctuary Crest
+
+## Reopen rule for place names
+
+The place names above may be reopened after world-name audit, visual testing, or chapter prototyping.
 
 ## Mass-market clarity line
 

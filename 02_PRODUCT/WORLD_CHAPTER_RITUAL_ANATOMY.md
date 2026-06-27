@@ -243,15 +243,39 @@ Format:
 
 **For the card that...**
 
-Current benchmark:
+The line can appear on the relevant World Crest page.
 
-- Ember: **For the card that still glows after the moment has passed.**
+Final lines are locked in:
 
-The line can appear on the relevant World Crest page, for example:
+`02_PRODUCT/WORLD_CRESTS_AND_FEELING_LINES.md`
 
-**Ember Crest**
+Current set:
 
-**For the card that still glows after the moment has passed.**
+- Ember Crest: **For the card that still glows after the moment has passed.**
+- Lagoon Crest: **For the card that feels like joy you wanted to keep.**
+- Forest Crest: **For the card that brings an old memory back.**
+- Moonlight Crest: **For the card that reveals more the longer you look.**
+- Prism Crest: **For the card that changes every time the light finds it.**
+- Storm Crest: **For the card that came through the hard part.**
+- Frost Crest: **For the card that endured the wait.**
+- Celestial Crest: **For the card that makes the collection feel endless.**
+- Summit Crest: **For the card that proves the climb was worth it.**
+- Sanctuary Crest: **For the card that feels like home.**
+
+## Place-name refinement
+
+The refined first-edition place names are:
+
+- Ember Tribute — **Volcanic Valley**
+- Lagoon Celebration — **Shellwater Cove**
+- Forest Remembrance — **Ancient Woodland Path**
+- Moonlight Discovery — **The Moonlit Arches**
+- Prism Harmony — **Valley of Light**
+- Storm Ascent — **Storm Coast**
+- Frost Resolve — **Frozen Lake**
+- Celestial Wonder — **Starlit Lake**
+- Summit Achievement — **Golden Mountain Path**
+- Sanctuary Legacy — **Hidden Refuge**
 
 ## Mass-market clarity test
 

@@ -2,7 +2,7 @@
 
 ## Status
 
-Locked v1.0 world naming and feeling-line set.
+Locked v1.1 world naming and feeling-line set.
 
 Date locked: 2026-06-27
 
@@ -83,15 +83,15 @@ Feeling line:
 
 Score:
 
-**87/100**
+**89/100**
 
 Reason:
 
-The previous place name, Tropical Water Haven, was too generic. Shellwater Cove is more ownable, more enterable, and more premium while keeping Lagoon’s joy, softness, and water-world identity.
+Shellwater Cove is ownable, enterable, tactile, and more premium than Tropical Water Haven while keeping Lagoon’s joy, softness, and water-world identity.
 
 Status:
 
-**Improved and usable. Test visually.**
+**Strong. Keep.**
 
 ---
 
@@ -99,7 +99,7 @@ Status:
 
 Place:
 
-**Ancient Woodland Path**
+**The Elder Root**
 
 World Crest:
 
@@ -111,15 +111,15 @@ Feeling line:
 
 Score:
 
-**90/100**
+**91/100**
 
 Reason:
 
-The line is simpler and more mass-market than the earlier version. It is clear, nostalgic, and instantly useful for childhood cards, first cards, family cards, and old favourites.
+The Elder Root is stronger than Ancient Woodland Path because it carries memory, origin, roots, ancestry, and woodland atmosphere without sounding like generic fantasy geography.
 
 Status:
 
-**Strong. Minor naming refinement optional later.**
+**Locked after place-name refinement.**
 
 ---
 
@@ -143,11 +143,11 @@ Score:
 
 Reason:
 
-The previous place name, Moonlit Ruins and Water, described ingredients rather than naming a place. The Moonlit Arches is more ownable, more visual, and more enterable. The feeling line gives Moonlight a clear role: mystery, hidden detail, and cards that reward attention.
+The Moonlit Arches is more ownable, more visual, and more enterable than Moonlit Ruins and Water. The feeling line gives Moonlight a clear role: mystery, hidden detail, and cards that reward attention.
 
 Status:
 
-**Major upgrade. Strong candidate.**
+**Strong. Keep.**
 
 ---
 
@@ -155,7 +155,7 @@ Status:
 
 Place:
 
-**Valley of Light**
+**The Refraction Pools**
 
 World Crest:
 
@@ -167,15 +167,15 @@ Feeling line:
 
 Score:
 
-**92/100**
+**93/100**
 
 Reason:
 
-This is now much stronger than the earlier rarity/beauty line. It directly fits holo, shiny, rainbow, reflective, rare, and visually beautiful cards while staying emotional and premium.
+The Refraction Pools is stronger than Valley of Light because it focuses on what light does rather than using light as a generic fantasy noun. It fits holo, shiny, rainbow, reflective, rare, and visually beautiful cards.
 
 Status:
 
-**Strong. Keep Valley of Light.**
+**Locked after place-name refinement.**
 
 ---
 
@@ -195,15 +195,15 @@ Feeling line:
 
 Score:
 
-**88/100**
+**90/100**
 
 Reason:
 
-Storm must own struggle, difficulty, conflict, and endurance. Storm Coast is cleaner than Lightning Pass because it avoids mountain overlap with Summit. The line is more human and mass-market than “earned through weather.”
+Storm owns struggle, difficulty, conflict, and endurance. Storm Coast is cleaner than Lightning Pass because it avoids mountain overlap with Summit.
 
 Status:
 
-**Strong direction. Must avoid overlapping Summit.**
+**Strong. Keep.**
 
 ---
 
@@ -239,7 +239,7 @@ Status:
 
 Place:
 
-**Starlit Lake**
+**Still Reach**
 
 World Crest:
 
@@ -251,15 +251,15 @@ Feeling line:
 
 Score:
 
-**89/100**
+**91/100**
 
 Reason:
 
-Night Lake was clear but slightly plain. Starlit Lake adds wonder and visual specificity while still remaining a place someone can enter. The feeling line gives Celestial ownership of vastness, scale, and imagination.
+Still Reach is stronger than Starlit Lake because it suggests vastness, reflection, distance, and calm without becoming too literal about stars or night scenery.
 
 Status:
 
-**Improved. Needs visual testing to avoid overlap with Prism.**
+**Locked after place-name refinement.**
 
 ---
 
@@ -267,7 +267,7 @@ Status:
 
 Place:
 
-**Golden Mountain Path**
+**The Last Ridge**
 
 World Crest:
 
@@ -279,15 +279,15 @@ Feeling line:
 
 Score:
 
-**94/100**
+**93/100**
 
 Reason:
 
-Summit is the grail, chase, completion, and achievement world. The feeling line adds payoff and makes the card feel earned without turning the page into a checklist or achievement tracker.
+The Last Ridge is stronger than Golden Mountain Path because it implies the final climb without saying golden, mountain, or path. It keeps Summit’s achievement feeling while reducing cliché.
 
 Status:
 
-**Very strong. Keep.**
+**Locked after place-name refinement.**
 
 ---
 
@@ -295,7 +295,7 @@ Status:
 
 Place:
 
-**Hidden Refuge**
+**Inner Sanct**
 
 World Crest:
 
@@ -307,32 +307,32 @@ Feeling line:
 
 Score:
 
-**95/100**
+**92/100**
 
 Reason:
 
-Simple, emotional, giftable, and instantly understandable. This is one of the strongest mass-market lines because it works for family cards, childhood cards, comfort cards, first partners, and sentimental favourites.
+Inner Sanct is stronger than Hidden Refuge, Quiet Haven, Lantern Keep, and Inner Sanctum. It connects directly to Sanctuary without using generic home/refuge language, keeps the protected-inner-place feeling, and avoids the unwanted sound of sanctum.
 
 Status:
 
-**Near-ceiling. Keep.**
+**Locked after place-name refinement.**
 
 ## Ranking after refinement
 
 Weakest to strongest:
 
-1. Lagoon Celebration — 87
-2. Storm Ascent — 88
-3. Celestial Wonder — 89
-4. Forest Remembrance — 90
-5. Moonlight Discovery — 91
-6. Frost Resolve — 91
-7. Prism Harmony — 92
-8. Summit Achievement — 94
-9. Sanctuary Legacy — 95
+1. Lagoon Celebration — 89
+2. Storm Ascent — 90
+3. Forest Remembrance — 91
+4. Moonlight Discovery — 91
+5. Frost Resolve — 91
+6. Celestial Wonder — 91
+7. Sanctuary Legacy — 92
+8. Summit Achievement — 93
+9. Prism Harmony — 93
 10. Ember Tribute — 96
 
-## Main improvements made
+## Main place-name improvements made
 
 ### Lagoon
 
@@ -348,6 +348,20 @@ Reason:
 
 More ownable, less generic, more premium, and more visual.
 
+### Forest
+
+Changed place from:
+
+**Ancient Woodland Path**
+
+To:
+
+**The Elder Root**
+
+Reason:
+
+Clearer root/memory/origin meaning and less generic fantasy wording.
+
 ### Moonlight
 
 Changed place from:
@@ -362,19 +376,19 @@ Reason:
 
 More elegant, more enterable, and less like a list of ingredients.
 
-### Celestial
+### Prism
 
 Changed place from:
 
-**Night Lake**
+**Valley of Light**
 
 To:
 
-**Starlit Lake**
+**The Refraction Pools**
 
 Reason:
 
-More wonder, more atmosphere, and stronger distinction from generic night scenery.
+More specific, more ownable, and based on how light behaves rather than saying light directly.
 
 ### Storm
 
@@ -389,6 +403,48 @@ To:
 Reason:
 
 Cleaner, stronger, and less likely to overlap with Summit’s mountain/climb identity.
+
+### Celestial
+
+Changed place from:
+
+**Night Lake** / **Starlit Lake**
+
+To:
+
+**Still Reach**
+
+Reason:
+
+Less literal, less cliché, and stronger for vastness, distance, reflection, and wonder.
+
+### Summit
+
+Changed place from:
+
+**Golden Mountain Path**
+
+To:
+
+**The Last Ridge**
+
+Reason:
+
+Less cliché and less motivational-poster, while preserving the final-climb feeling.
+
+### Sanctuary
+
+Changed place from:
+
+**Hidden Refuge**
+
+To:
+
+**Inner Sanct**
+
+Reason:
+
+More ownable, closer to Sanctuary Legacy, and less generic than refuge/haven/home language.
 
 ## Guardrails
 

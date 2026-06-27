@@ -138,9 +138,13 @@ The weaker world/place names and feeling lines were reviewed against the dominan
 Refinements locked:
 
 - Lagoon place changed from **Tropical Water Haven** to **Shellwater Cove**.
+- Forest place changed from **Ancient Woodland Path** to **The Elder Root**.
 - Moonlight place changed from **Moonlit Ruins and Water** to **The Moonlit Arches**.
-- Celestial place changed from **Night Lake** to **Starlit Lake**.
+- Prism place changed from **Valley of Light** to **The Refraction Pools**.
 - Storm place changed from **Storm Coast / Lightning Pass** to **Storm Coast**.
+- Celestial place changed from **Night Lake / Starlit Lake** to **Still Reach**.
+- Summit place changed from **Golden Mountain Path** to **The Last Ridge**.
+- Sanctuary place changed from **Hidden Refuge** to **Inner Sanct**.
 - Feeling lines were sharpened for all 10 World Crests.
 
 The final set is locked in:

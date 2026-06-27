@@ -8,6 +8,8 @@ Date locked: 2026-06-27
 
 This file upgrades the ApexCrest world-chapter structure from a simple page layout into a repeatable collector ritual.
 
+Place names listed here are a **provisional working set**, not final manuscript locks.
+
 ## Core decision
 
 Every ApexCrest world chapter follows the same ritual sequence:
@@ -264,7 +266,7 @@ Current set:
 
 ## Place-name refinement
 
-The refined first-edition place names are:
+The current provisional first-edition place names are:
 
 - Ember Tribute — **Volcanic Valley**
 - Lagoon Celebration — **Shellwater Cove**
@@ -276,6 +278,8 @@ The refined first-edition place names are:
 - Celestial Wonder — **Still Reach**
 - Summit Achievement — **The Last Ridge**
 - Sanctuary Legacy — **Inner Sanct**
+
+These place names are recorded as the current working set and may be reopened after the world-name audit, visual testing, or chapter prototyping.
 
 ## Mass-market clarity test
 

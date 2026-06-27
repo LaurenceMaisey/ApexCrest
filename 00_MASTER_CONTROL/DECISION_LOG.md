@@ -179,3 +179,23 @@ Decision:
 - Illustration direction should remain blue/turquoise water-led, with coral pink reef/accent elements rather than an all-pink coral page.
 
 This stack may still be reopened during later visual testing, but it is the current working lock.
+
+## 2026-06-27 — Celestial Reach world name locked as current working set
+
+The Celestial world stack was reworked because **Celestial Wonder** sounded like an emotion label rather than a world-scale place identity.
+
+Current working stack:
+
+- World: **Celestial Reach**
+- Place: **Visual place pending**
+- World Crest: **Celestial Crest**
+- Feeling line: **For the card that makes the collection feel endless.**
+
+Decision:
+
+- **Celestial Wonder** is superseded.
+- **Still Reach** is superseded because it repeats Reach and fixes the visual-place layer before illustration direction is settled.
+- **Celestial Crest** remains correct because it is clearly married to the world name.
+- The place subtitle should remain pending until the visual direction is clearer.
+
+This stack may still be reopened during visual testing, but **Celestial Reach** is the current working world-name lock.

@@ -39,18 +39,18 @@ Decision:
 - authored world text must live on separate book pages
 - each world now uses a 4-page / 2-spread structure
 - initial target first-edition page count moved beyond the old 20–40 page concept
-- 10 centred card display pages maximum
+- 10 centred personal display/Crest pages maximum
 
 Locked 4-page world rhythm:
 
 1. quiet world entry page
 2. authored world reading page
 3. full world illustration page
-4. centred card display page
+4. centred Crest/display page
 
-The full illustration must face the centred card display page to preserve the strongest customer and marketing hero spread.
+The full illustration must face the centred Crest/display page to preserve the strongest customer and marketing hero spread.
 
-The opening spread must remain book-first, so the chapter begins with world identity and authored reading matter before the card display appears.
+The opening spread must remain book-first, so the chapter begins with world identity and authored reading matter before the Crest/display page appears.
 
 ## 2026-06-27 — Visual register rule locked
 
@@ -64,7 +64,7 @@ Quiet register:
 
 Hero register:
 
-- used for full illustration and card display spread
+- used for full illustration and Crest/display spread
 - cinematic, atmospheric, and higher intensity
 - still part of the same world system
 
@@ -90,8 +90,8 @@ The preferred first-edition structure is now:
 
 - **64 pages total**
 - **10 worlds**
-- **10 centred personal card display pages maximum**
-- **10 card display pages = 15.6% of total pages**
+- **10 centred personal Crest/display pages maximum**
+- **10 Crest/display pages = 15.6% of total pages**
 
 Decision:
 
@@ -100,3 +100,33 @@ Decision:
 - 56 pages remains the minimum fallback only if production cost requires it.
 - 48 pages is no longer the preferred first-edition structure and may only be reconsidered after print-cost review and VAT specialist review.
 - The 64-page map is locked in `02_PRODUCT/FIRST_EDITION_64_PAGE_BOOK_MAP.md`.
+
+## 2026-06-27 — World chapter ritual anatomy locked
+
+The chapter anatomy is upgraded from layout to ritual.
+
+Locked sequence:
+
+**Gate → Meaning → Reveal → Crest**
+
+Decision:
+
+- Page 1 is **The Gate**: the reader enters the world.
+- Page 2 is **The Meaning**: the emotional use-case becomes clear.
+- Page 3 is **The Reveal**: the full cinematic world is shown.
+- Page 4 is **The Crest**: the selected card receives symbolic recognition inside the world.
+- Customer-facing language should use the ritual terms where helpful.
+- Practical production language such as wallet area, display area, or card display page may remain internal only.
+- Each world needs an unforgettable selection line that helps customers instantly know what kind of card belongs there.
+- The mass-market clarity line is: **Ten worlds. Ten Crests. For the cards that earned their place.**
+- The ritual anatomy is locked in `02_PRODUCT/WORLD_CHAPTER_RITUAL_ANATOMY.md`.
+
+Dominance test:
+
+A chapter is not ceiling-level unless the customer can immediately think:
+
+**I know exactly which card belongs here.**
+
+It must also make the customer feel:
+
+**A binder does not do this.**

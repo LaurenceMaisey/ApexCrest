@@ -12,7 +12,7 @@ This file upgrades the ApexCrest world-chapter structure from a simple page layo
 
 Every ApexCrest world chapter follows the same ritual sequence:
 
-**Gate → Meaning → Reveal → Crest**
+**Gate → Meaning → Reveal → World Crest**
 
 This is the peak first-edition chapter anatomy.
 
@@ -29,9 +29,30 @@ The customer journey must be clear in seconds:
 1. enter a world;
 2. understand the feeling;
 3. see the world fully;
-4. give the chosen card its Crest.
+4. recognise the chosen card with that world’s Crest.
 
 This turns the product from a layout into a ritual.
+
+## World Crest naming rule
+
+Page 4 is never just “the card page” in customer-facing language.
+
+It is named as the world’s Crest:
+
+- Ember Crest
+- Lagoon Crest
+- Forest Crest
+- Moonlight Crest
+- Prism Crest
+- Storm Crest
+- Frost Crest
+- Celestial Crest
+- Summit Crest
+- Sanctuary Crest
+
+This is the cleanest naming system because it keeps **Crest** attached to symbolic recognition and book identity, not storage mechanics.
+
+Internal production notes may still mention a centred personal display area where physical accuracy is needed.
 
 ## Locked anatomy
 
@@ -113,7 +134,7 @@ Customer-facing role:
 Purpose:
 
 - deliver the cinematic visual reveal
-- create the strongest emotional spread with the facing Crest page
+- create the strongest emotional spread with the facing World Crest
 - prove the product is an illustrated book, not a holder system
 
 Required elements:
@@ -126,9 +147,9 @@ Required elements:
 
 Test:
 
-**Could this page be sold as a premium illustrated book plate even without any card display page opposite it?**
+**Could this page be sold as a premium illustrated book plate even without any display page opposite it?**
 
-### Page 4 — The Crest
+### Page 4 — The World Crest
 
 Former internal name:
 
@@ -136,7 +157,7 @@ Former internal name:
 
 Customer-facing role:
 
-- give the card its Crest
+- recognise the chosen card with the world’s Crest
 
 Purpose:
 
@@ -168,7 +189,7 @@ This spread gives the product book-first credibility.
 
 It should feel like a premium illustrated book chapter, not like a card-storage section.
 
-### Spread 2 — Reveal + Crest
+### Spread 2 — Reveal + World Crest
 
 This spread is the hero product moment.
 
@@ -176,7 +197,7 @@ It is the marketing/customer money shot.
 
 The Reveal page provides the full world.
 
-The Crest page gives the selected card a place of recognition.
+The World Crest gives the selected card a place of recognition.
 
 ## Internal vs public language
 
@@ -192,7 +213,8 @@ Customer-facing language should use emotional/book-first terms:
 - The Gate
 - The Meaning
 - The Reveal
-- The Crest
+- Ember Crest / Lagoon Crest / Forest Crest etc.
+- World Crest
 - Crest page
 - personal display space
 - earned place
@@ -221,20 +243,15 @@ Format:
 
 **For the card that...**
 
-Examples:
+Current benchmark:
 
 - Ember: **For the card that still glows after the moment has passed.**
-- Lagoon: **For the card that feels like joy caught in sunlight.**
-- Forest: **For the card that carries a memory back to the surface.**
-- Moonlight: **For the card that keeps something hidden in the light.**
-- Prism: **For the card that turns rarity into beauty.**
-- Storm: **For the card that was earned through weather.**
-- Frost: **For the card that waited, endured, and remained.**
-- Celestial: **For the card that makes the collection feel larger than itself.**
-- Summit: **For the card that marks the climb.**
-- Sanctuary: **For the card that feels like home.**
 
-These are working lines, not final manuscript locks.
+The line can appear on the relevant World Crest page, for example:
+
+**Ember Crest**
+
+**For the card that still glows after the moment has passed.**
 
 ## Mass-market clarity test
 
@@ -251,7 +268,7 @@ Each chapter must pass all 8 tests:
 1. **Place test** — does the world feel enterable?
 2. **Emotion test** — is the dominant feeling unmistakable?
 3. **Book test** — does the chapter work without cards?
-4. **Ritual test** — does the Gate → Meaning → Reveal → Crest sequence feel natural?
+4. **Ritual test** — does the Gate → Meaning → Reveal → World Crest sequence feel natural?
 5. **Crest test** — does Page 4 feel like recognition, not storage?
 6. **Instant-fit test** — can a customer instantly imagine which card belongs there?
 7. **Premium-empty test** — does the Crest page look finished when empty?
@@ -273,4 +290,4 @@ ApexCrest chapters are not four pages of layout.
 
 They are four stages of recognition:
 
-**Gate → Meaning → Reveal → Crest.**
+**Gate → Meaning → Reveal → World Crest.**

@@ -2,11 +2,11 @@
 
 ## Status
 
-Prototype v0.2.
+Prototype v0.3.
 
 Date created: 2026-06-27
 
-Updated after the ritual-anatomy lock.
+Updated after the ritual-anatomy and World Crest naming locks.
 
 This is the first complete world-chapter test for the 64-page ApexCrest first edition.
 
@@ -24,7 +24,7 @@ It must prove that ApexCrest can deliver:
 2. world-specific atmosphere;
 3. authored reading matter;
 4. a premium hero illustration;
-5. a Crest page that still feels finished when empty;
+5. an Ember Crest page that still feels finished when empty;
 6. no album, binder, scrapbook, workbook, or storage-product behaviour.
 
 ## Location in 64-page map
@@ -34,7 +34,7 @@ Ember Tribute occupies pages 9–12 of the preferred 64-page first edition.
 - Page 9: **The Gate**
 - Page 10: **The Meaning**
 - Page 11: **The Reveal**
-- Page 12: **The Crest**
+- Page 12: **Ember Crest**
 
 ## World lock
 
@@ -45,6 +45,10 @@ World name:
 Place name:
 
 **Volcanic Valley**
+
+World Crest name:
+
+**Ember Crest**
 
 Primary emotion:
 
@@ -91,7 +95,7 @@ It must not become generic parchment fantasy styling.
 
 ### Hero register
 
-Used on The Reveal and The Crest.
+Used on The Reveal and Ember Crest.
 
 The hero register should feel cinematic, atmospheric, and higher intensity.
 
@@ -172,13 +176,13 @@ Readable text page with restrained Ember atmosphere. Keep the background quiet e
 
 Do not add prompts or lines.
 
-## Spread 2 — Reveal + Crest
+## Spread 2 — Reveal + Ember Crest
 
 This is the hero product spread.
 
 The Reveal page provides the full world.
 
-The Crest page gives the selected card a place of recognition.
+Ember Crest gives the selected card a place of recognition.
 
 ### Page 11 — The Reveal
 
@@ -188,7 +192,7 @@ Former internal name:
 
 Purpose:
 
-Deliver the full world reveal and create the strongest facing-page relationship with The Crest.
+Deliver the full world reveal and create the strongest facing-page relationship with Ember Crest.
 
 Required elements:
 
@@ -207,10 +211,10 @@ Composition notes:
 
 - avoid visual clutter near the gutter
 - keep the most cinematic glow moving towards the outer half of the page
-- use the valley shape to lead the eye towards the facing Crest page
+- use the valley shape to lead the eye towards the facing Ember Crest
 - maintain premium restraint; not fantasy chaos
 
-### Page 12 — The Crest
+### Page 12 — Ember Crest
 
 Former internal name:
 
@@ -234,7 +238,7 @@ Required elements:
 
 Suggested page text:
 
-**EMBER TRIBUTE**
+**EMBER CREST**
 
 **Volcanic Valley**
 
@@ -244,7 +248,7 @@ Small line:
 
 Design direction:
 
-The empty Crest page should look like a finished Ember plate, not a missing-card placeholder.
+The empty Ember Crest page should look like a finished Ember plate, not a missing-card placeholder.
 
 Use a quiet volcanic plinth or crest-frame behind the clear wallet. Add faint magma-vein lines, ash texture, ember flecks, and a premium border. The card area should feel honoured, not stored.
 
@@ -252,7 +256,7 @@ The wallet/pocket must visually sit inside the artwork system rather than lookin
 
 ## Empty-page test
 
-The Crest page must pass this test:
+Ember Crest must pass this test:
 
 **If no card is inserted, does this still look like a finished illustrated page?**
 
@@ -260,9 +264,9 @@ If no, redesign.
 
 ## Full-spread test
 
-The Reveal + Crest spread must pass this test:
+The Reveal + Ember Crest spread must pass this test:
 
-**Does the full illustration facing the Crest page feel like the hero moment of the chapter?**
+**Does the full illustration facing Ember Crest feel like the hero moment of the chapter?**
 
 If no, redesign.
 
@@ -280,7 +284,7 @@ The chapter must make the customer think:
 
 **I know exactly which card belongs here.**
 
-If the customer cannot instantly imagine the right kind of card for Ember, the Meaning page and Crest line need sharpening.
+If the customer cannot instantly imagine the right kind of card for Ember, the Meaning page and Ember Crest line need sharpening.
 
 ## Binder-distance test
 
@@ -317,7 +321,7 @@ This prototype may include:
 
 When this chapter reaches layout prototype, test:
 
-1. Does The Crest look premium when empty?
+1. Does Ember Crest look premium when empty?
 2. Does the card slide in smoothly without bending?
 3. Does the wallet sit flat enough in the book?
 4. Does the page turn cleanly with a card inserted?
@@ -333,7 +337,7 @@ This chapter passes if:
 - The Gate feels like a premium world-entry page.
 - The Meaning reads like real book content.
 - The Reveal works as a full illustrated plate.
-- The Crest looks finished empty and strong with a card inserted.
+- Ember Crest looks finished empty and strong with a card inserted.
 - The chapter feels complete without cards.
 - The card display feels special but secondary.
 - The spread does not feel like binder, album, scrapbook, workbook, or storage product design.

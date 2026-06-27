@@ -2,7 +2,7 @@
 
 ## Status
 
-Provisional v1.2 world naming and feeling-line set.
+Provisional v1.3 world naming and feeling-line set.
 
 Date recorded: 2026-06-27
 
@@ -239,11 +239,11 @@ Status:
 
 ---
 
-### 8. Celestial Wonder
+### 8. Celestial Reach
 
 Place:
 
-**Still Reach**
+**Visual place pending**
 
 World Crest:
 
@@ -255,15 +255,15 @@ Feeling line:
 
 Score:
 
-**91/100**
+**93/100**
 
 Reason:
 
-Still Reach is stronger than Starlit Lake because it suggests vastness, reflection, distance, and calm without becoming too literal about stars or night scenery.
+Celestial Reach replaces Celestial Wonder because Wonder was an emotion label, while Reach gives the world scale, distance, vastness, and endlessness. Still Reach is superseded because it repeats Reach and fixes the visual place too early before illustration direction is settled.
 
 Status:
 
-**Temporary place-name lock. Recheck after world-name audit and visual testing.**
+**World-name working lock. Place name intentionally pending until visual direction is clearer.**
 
 ---
 
@@ -329,9 +329,9 @@ Weakest to strongest:
 2. Forest Remembrance — 91
 3. Moonlight Discovery — 91
 4. Frost Resolve — 91
-5. Celestial Wonder — 91
-6. Coral Tide — 92
-7. Sanctuary Legacy — 92
+5. Coral Tide — 92
+6. Sanctuary Legacy — 92
+7. Celestial Reach — 93
 8. Summit Achievement — 93
 9. Prism Harmony — 93
 10. Ember Tribute — 96
@@ -424,19 +424,27 @@ Reason:
 
 Cleaner, stronger, and less likely to overlap with Summit’s mountain/climb identity.
 
-### Celestial
+### Celestial Reach
 
-Changed place from:
+Changed world from:
 
-**Night Lake** / **Starlit Lake**
+**Celestial Wonder**
 
 To:
 
+**Celestial Reach**
+
+Changed place from:
+
 **Still Reach**
+
+To:
+
+**Visual place pending**
 
 Reason:
 
-Less literal, less cliché, and stronger for vastness, distance, reflection, and wonder.
+Celestial Reach is clearer, more premium, and more world-scale than Celestial Wonder. Still Reach is removed because it repeats Reach and prematurely chooses the visual-place layer before the illustration direction is settled.
 
 ### Summit
 

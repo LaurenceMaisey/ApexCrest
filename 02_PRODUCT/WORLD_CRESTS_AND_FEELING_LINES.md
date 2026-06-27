@@ -2,11 +2,13 @@
 
 ## Status
 
-Locked v1.1 world naming and feeling-line set.
+Provisional v1.1 world naming and feeling-line set.
 
-Date locked: 2026-06-27
+Date recorded: 2026-06-27
 
-This file defines the current best world names, place names, World Crest names, and feeling lines for the 64-page ApexCrest first edition.
+This file defines the current working world names, temporary/provisional place names, World Crest names, and feeling lines for the 64-page ApexCrest first edition.
+
+The place names in this file are **not final locks**. They are the current best temporary set, recorded so the repo stays aligned while world names are audited next. They may be reopened after the world-name audit, visual testing, and chapter prototyping.
 
 ## Purpose
 
@@ -37,7 +39,7 @@ Do not replace every use of **card** with **Crest**.
 
 Do not use **card** with mechanical verbs such as insert, store, swap, organise, protect, catalogue, or mount in customer-facing copy.
 
-## Final world set
+## Current working world set
 
 ### 1. Ember Tribute
 
@@ -91,7 +93,7 @@ Shellwater Cove is ownable, enterable, tactile, and more premium than Tropical W
 
 Status:
 
-**Strong. Keep.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -119,7 +121,7 @@ The Elder Root is stronger than Ancient Woodland Path because it carries memory,
 
 Status:
 
-**Locked after place-name refinement.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -147,7 +149,7 @@ The Moonlit Arches is more ownable, more visual, and more enterable than Moonlit
 
 Status:
 
-**Strong. Keep.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -175,7 +177,7 @@ The Refraction Pools is stronger than Valley of Light because it focuses on what
 
 Status:
 
-**Locked after place-name refinement.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -203,7 +205,7 @@ Storm owns struggle, difficulty, conflict, and endurance. Storm Coast is cleaner
 
 Status:
 
-**Strong. Keep.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -231,7 +233,7 @@ This line gives Frost patience, restraint, time, and quiet endurance. It is clea
 
 Status:
 
-**Strong. Keep.**
+**Temporary place-name lock. Recheck later; Frozen Lake may need further refinement.**
 
 ---
 
@@ -259,7 +261,7 @@ Still Reach is stronger than Starlit Lake because it suggests vastness, reflecti
 
 Status:
 
-**Locked after place-name refinement.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -287,7 +289,7 @@ The Last Ridge is stronger than Golden Mountain Path because it implies the fina
 
 Status:
 
-**Locked after place-name refinement.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ---
 
@@ -315,7 +317,7 @@ Inner Sanct is stronger than Hidden Refuge, Quiet Haven, Lantern Keep, and Inner
 
 Status:
 
-**Locked after place-name refinement.**
+**Temporary place-name lock. Recheck after world-name audit and visual testing.**
 
 ## Ranking after refinement
 
@@ -445,6 +447,15 @@ To:
 Reason:
 
 More ownable, closer to Sanctuary Legacy, and less generic than refuge/haven/home language.
+
+## Reopen rule
+
+These place names may be reopened after:
+
+1. the world-name audit;
+2. visual testing;
+3. the first complete Ember chapter prototype;
+4. any evidence that a place name feels weak, confusing, too literal, too abstract, too cheesy, or visually mismatched.
 
 ## Guardrails
 

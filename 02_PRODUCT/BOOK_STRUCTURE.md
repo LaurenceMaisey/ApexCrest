@@ -2,11 +2,11 @@
 
 ## Status
 
-Locked current first-edition structure, updated after the A5 wallet prototype review on 2026-06-27.
+Locked current first-edition structure, updated after the A5 wallet prototype review and 64-page book-map decision on 2026-06-27.
 
 ## Core structure
 
-**10 Worlds. 10 centred personal card display pages.**
+**10 Worlds. 10 centred personal card display pages. 64-page preferred first edition.**
 
 The first ApexCrest collector book must contain one personal card display page per world.
 
@@ -155,17 +155,40 @@ If no, redesign.
 
 Current first-edition target:
 
-- **48–56 pages total**
-- **56 pages preferred**
+- **64 pages preferred**
+- **56 pages minimum fallback only if production cost requires it**
 - **10 card display pages maximum**
-- card display pages should remain comfortably below 25% of the total page count
-- additional intro, world map, transition, and closing pages should support book-first character
+- 64 pages with 10 card display pages = **15.6% card-display-led pages**
+- 56 pages with 10 card display pages = **17.9% card-display-led pages**
+- card display pages must remain clearly below 25% of the total page count
+- additional intro, world map, transition, and closing pages must support book-first character
+
+The previous 48–56 page target is superseded.
+
+48 pages is no longer the preferred first-edition structure. It may only be reconsidered after print-cost review and VAT specialist review.
 
 Avoid:
 
 - 20-page structure
 - 40-page structure
+- 48-page structure as default
 - any structure where card display pages reach 25% or more of the publication
+
+## 64-page structure
+
+Preferred first-edition structure:
+
+- 8 pages front matter
+- 40 pages world chapters
+- 16 pages back matter / closing book content
+
+Total:
+
+**8 + 40 + 16 = 64 pages**
+
+The full pagination map is locked in:
+
+`02_PRODUCT/FIRST_EDITION_64_PAGE_BOOK_MAP.md`
 
 ## Card-display page rule
 
@@ -226,5 +249,7 @@ Internal production notes may use practical language where needed, but customer-
 ## Final rule
 
 More meaning, not more slots.
+
+64 pages preferred.
 
 Book first. World first. Card second.

@@ -69,3 +69,17 @@ Hero register:
 - still part of the same world system
 
 A pattern interrupt is allowed in intensity, not in style.
+
+## 2026-06-27 — Crest public line locked
+
+Locked public line:
+
+**Some cards deserve more than a binder. They deserve a Crest.**
+
+Decision:
+
+- Use **a Crest** rather than **their crest** as the primary line because it refers to both the physical ApexCrest book/product and the symbolic crest of honour/recognition.
+- The line deliberately contrasts ApexCrest against binders, albums, storage folders, and ordinary card-holder products.
+- The word **Crest** must officially mean book identity and symbolic recognition, not mechanical insertion, storage, organising, upgrading, or swapping.
+- The line is VAT-supportive because it strengthens the non-binder, non-storage positioning, but it does not determine VAT treatment on its own.
+- Written VAT specialist review remains required before relying on zero-rating.

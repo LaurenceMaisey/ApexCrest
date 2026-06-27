@@ -276,14 +276,14 @@ Internal production notes may use practical language where needed, but customer-
 
 1. Ember Tribute — Volcanic Valley — Ember Crest
 2. Lagoon Celebration — Shellwater Cove — Lagoon Crest
-3. Forest Remembrance — Ancient Woodland Path — Forest Crest
+3. Forest Remembrance — The Elder Root — Forest Crest
 4. Moonlight Discovery — The Moonlit Arches — Moonlight Crest
-5. Prism Harmony — Valley of Light — Prism Crest
+5. Prism Harmony — The Refraction Pools — Prism Crest
 6. Storm Ascent — Storm Coast — Storm Crest
 7. Frost Resolve — Frozen Lake — Frost Crest
-8. Celestial Wonder — Starlit Lake — Celestial Crest
-9. Summit Achievement — Golden Mountain Path — Summit Crest
-10. Sanctuary Legacy — Hidden Refuge — Sanctuary Crest
+8. Celestial Wonder — Still Reach — Celestial Crest
+9. Summit Achievement — The Last Ridge — Summit Crest
+10. Sanctuary Legacy — Inner Sanct — Sanctuary Crest
 
 ## Mass-market clarity line
 

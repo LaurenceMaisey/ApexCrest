@@ -2,15 +2,15 @@
 
 ## Status
 
-Locked current first-edition structure, updated after the A5 wallet prototype review and 64-page book-map decision on 2026-06-27.
+Locked current first-edition structure, updated after the A5 wallet prototype review, 64-page book-map decision, and ritual-anatomy lock on 2026-06-27.
 
 ## Core structure
 
-**10 Worlds. 10 centred personal card display pages. 64-page preferred first edition.**
+**10 Worlds. 10 Crests. 64-page preferred first edition.**
 
-The first ApexCrest collector book must contain one personal card display page per world.
+The first ApexCrest collector book must contain one centred personal Crest/display page per world.
 
-The card display page is a participation/display moment inside a complete illustrated world chapter. It is not the chapter itself.
+The Crest page is a symbolic recognition moment inside a complete illustrated world chapter. It is not the chapter itself.
 
 This keeps the product:
 
@@ -26,7 +26,7 @@ This keeps the product:
 
 The A5 card wallet/sleeve prototype proved that meaningful side text cannot sit neatly beside the card.
 
-The gutter/spine space plus the actual wallet size means the centred card display page must be treated as a dedicated visual page, not a mixed text-and-card page.
+The gutter/spine space plus the actual wallet size means the centred Crest/display page must be treated as a dedicated visual page, not a mixed text-and-card page.
 
 Therefore:
 
@@ -36,13 +36,25 @@ Therefore:
 - no workbook, scrapbook, diary, or record-book behaviour
 - authored book content must sit on separate pages
 
-## Locked first-edition world rhythm
+## Locked first-edition world ritual
 
 Each world receives **4 pages** arranged as **two double-page spreads**.
 
-### Spread 1 — Book-first spread
+The locked ritual anatomy is:
 
-**Page 1: Quiet world entry page**
+**Gate → Meaning → Reveal → Crest**
+
+The full ritual anatomy is locked in:
+
+`02_PRODUCT/WORLD_CHAPTER_RITUAL_ANATOMY.md`
+
+### Spread 1 — Gate + Meaning
+
+This spread provides book-first credibility.
+
+**Page 1: The Gate**
+
+Former internal name: quiet world entry page.
 
 - world title
 - world subtitle/place name
@@ -53,28 +65,38 @@ Each world receives **4 pages** arranged as **two double-page spreads**.
 - no user prompt
 - no writing field
 
-**Page 2: Authored world reading page**
+**Page 2: The Meaning**
+
+Former internal name: authored world reading page.
 
 - proper standalone prose
 - the feeling, place, atmosphere, and meaning of the world
 - written as book content, not card-selection instruction
+- helps the customer instinctively understand what belongs in this world
 - no fill-in prompts
 - no lines
 - no tick boxes
 - no card-led wording
 
-### Spread 2 — Hero display spread
+### Spread 2 — Reveal + Crest
 
-**Page 3: Full world illustration page**
+This spread is the hero product moment.
+
+**Page 3: The Reveal**
+
+Former internal name: full world illustration page.
 
 - full cinematic emotional landscape
 - the main visual world reveal
 - strong enough to work without any card inserted
-- designed as the marketing/customer “money shot” when paired with the card display page
+- designed as the marketing/customer “money shot” when paired with the Crest page
 
-**Page 4: Centred card display page**
+**Page 4: The Crest**
 
-- centred wallet/card display area
+Former internal name: centred card display page.
+
+- finished world-specific Crest page design
+- centred personal display area
 - minimal title/subtitle only if needed
 - subtle world echo, texture, border, particles, or atmospheric detail
 - no side text
@@ -86,12 +108,12 @@ Each world receives **4 pages** arranged as **two double-page spreads**.
 
 This order gives ApexCrest both requirements:
 
-1. **Book-first credibility** — the world begins with authored content and visual atmosphere before any card display appears.
-2. **Premium hero impact** — the card still sits opposite the full world illustration, creating the strongest customer and marketing spread.
+1. **Book-first credibility** — the world begins with atmosphere and authored meaning before any display moment appears.
+2. **Premium hero impact** — the chosen card still sits opposite the full world illustration, creating the strongest customer and marketing spread.
 
-The card page must not be the first or only meaningful page in the chapter.
+The Crest page must not be the first or only meaningful page in the chapter.
 
-The full illustration must face the centred card display page because that is the strongest emotional product moment.
+The Reveal must face The Crest because that is the strongest emotional product moment.
 
 ## Visual register rule
 
@@ -99,7 +121,7 @@ Each world uses two intensity registers, not two different styles.
 
 ### Quiet register
 
-Used on the world entry and reading pages.
+Used on The Gate and The Meaning.
 
 It should be restrained, readable, premium, and world-specific.
 
@@ -107,7 +129,7 @@ For Ember, this means ash, charcoal, ember flecks, copper linework, faint volcan
 
 ### Hero register
 
-Used on the full illustration and card display spread.
+Used on The Reveal and The Crest.
 
 It should be cinematic, atmospheric, and more intense, while still using the same palette, typography, border logic, and world identity.
 
@@ -119,15 +141,16 @@ Each world receives:
 
 - one primary world identity
 - one emotional theme
-- one centred personal card display page
-- one full world illustration page
-- one quiet world entry page
-- one authored reading page
+- one Gate page
+- one Meaning page
+- one Reveal page
+- one Crest page
+- one centred personal display area inside the Crest page
 - controlled page echoes across the chapter
 
-## Why 10 card display pages
+## Why 10 Crests
 
-10 card display pages is the correct first-edition limit because it avoids the product becoming:
+10 Crest pages is the correct first-edition limit because it avoids the product becoming:
 
 - a binder
 - a storage album
@@ -135,13 +158,13 @@ Each world receives:
 - physically bulky when full
 - repetitive in page rhythm
 
-The card display pages must feel selective.
+The Crest pages must feel selective.
 
 ApexCrest is for the cards that earned their place.
 
 ## Book-first structure
 
-The book must contain substantial illustration and authored world text beyond the card display pages.
+The book must contain substantial illustration and authored world text beyond the Crest pages.
 
 These pages exist to make the book feel complete and valuable even before any cards are added.
 
@@ -157,10 +180,10 @@ Current first-edition target:
 
 - **64 pages preferred**
 - **56 pages minimum fallback only if production cost requires it**
-- **10 card display pages maximum**
-- 64 pages with 10 card display pages = **15.6% card-display-led pages**
-- 56 pages with 10 card display pages = **17.9% card-display-led pages**
-- card display pages must remain clearly below 25% of the total page count
+- **10 Crest/display pages maximum**
+- 64 pages with 10 Crest/display pages = **15.6% display-led pages**
+- 56 pages with 10 Crest/display pages = **17.9% display-led pages**
+- display-led pages must remain clearly below 25% of the total page count
 - additional intro, world map, transition, and closing pages must support book-first character
 
 The previous 48–56 page target is superseded.
@@ -172,7 +195,7 @@ Avoid:
 - 20-page structure
 - 40-page structure
 - 48-page structure as default
-- any structure where card display pages reach 25% or more of the publication
+- any structure where display-led pages reach 25% or more of the publication
 
 ## 64-page structure
 
@@ -190,21 +213,21 @@ The full pagination map is locked in:
 
 `02_PRODUCT/FIRST_EDITION_64_PAGE_BOOK_MAP.md`
 
-## Card-display page rule
+## Crest page rule
 
-Card display pages are special moments, not repeated storage positions.
+Crest pages are special moments, not repeated storage positions.
 
-No additional card display pages may be added without reopening the product architecture decision.
+No additional Crest/display pages may be added without reopening the product architecture decision.
 
-The card page may include:
+The Crest page may include:
 
 - world title
 - world subtitle
 - small ApexCrest mark
 - subtle world echo
-- centred wallet/display area
+- centred personal display area
 
-The card page must not include:
+The Crest page must not include:
 
 - long text beside the card
 - “write here” areas
@@ -217,10 +240,20 @@ The card page must not include:
 
 Prefer:
 
-- personal card display page
-- display page
-- crest page
+- The Gate
+- The Meaning
+- The Reveal
+- The Crest
+- Crest page
 - personal display space
+- earned place
+
+Use internally where necessary:
+
+- personal card display page
+- centred display page
+- wallet area
+- display area
 
 Avoid customer-facing use of:
 
@@ -231,25 +264,33 @@ Avoid customer-facing use of:
 - storage slot
 - card organiser
 
-Internal production notes may use practical language where needed, but customer-facing copy must remain book-first.
+Internal production notes may use practical language where needed, but customer-facing copy must remain book-first and Crest-led.
 
-## World-to-display map
+## World-to-Crest map
 
-1. Ember Tribute — 1 centred card display page
-2. Lagoon Celebration — 1 centred card display page
-3. Forest Remembrance — 1 centred card display page
-4. Moonlight Discovery — 1 centred card display page
-5. Prism Harmony — 1 centred card display page
-6. Storm Ascent — 1 centred card display page
-7. Frost Resolve — 1 centred card display page
-8. Celestial Wonder — 1 centred card display page
-9. Summit Achievement — 1 centred card display page
-10. Sanctuary Legacy — 1 centred card display page
+1. Ember Tribute — 1 Crest page
+2. Lagoon Celebration — 1 Crest page
+3. Forest Remembrance — 1 Crest page
+4. Moonlight Discovery — 1 Crest page
+5. Prism Harmony — 1 Crest page
+6. Storm Ascent — 1 Crest page
+7. Frost Resolve — 1 Crest page
+8. Celestial Wonder — 1 Crest page
+9. Summit Achievement — 1 Crest page
+10. Sanctuary Legacy — 1 Crest page
+
+## Mass-market clarity line
+
+**Ten worlds. Ten Crests. For the cards that earned their place.**
+
+This is the clearest short explanation of the system.
 
 ## Final rule
 
 More meaning, not more slots.
 
 64 pages preferred.
+
+Gate. Meaning. Reveal. Crest.
 
 Book first. World first. Card second.

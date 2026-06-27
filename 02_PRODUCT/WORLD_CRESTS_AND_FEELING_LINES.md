@@ -2,13 +2,13 @@
 
 ## Status
 
-Provisional v1.1 world naming and feeling-line set.
+Provisional v1.2 world naming and feeling-line set.
 
 Date recorded: 2026-06-27
 
 This file defines the current working world names, temporary/provisional place names, World Crest names, and feeling lines for the 64-page ApexCrest first edition.
 
-The place names in this file are **not final locks**. They are the current best temporary set, recorded so the repo stays aligned while world names are audited next. They may be reopened after the world-name audit, visual testing, and chapter prototyping.
+The names in this file are **working locks**, not final manuscript locks. They are recorded so the repo stays aligned while world names, place names, visual testing, and chapter prototyping continue.
 
 ## Purpose
 
@@ -34,6 +34,8 @@ Correct hierarchy:
 - Place: **Volcanic Valley**
 - World Crest: **Ember Crest**
 - Feeling line: **For the card that still glows after the moment has passed.**
+
+The Crest name must be married to the world name. It should use the first word, one of the main words, or a clearly related root from the world name plus **Crest**.
 
 Do not replace every use of **card** with **Crest**.
 
@@ -69,15 +71,15 @@ Status:
 
 ---
 
-### 2. Lagoon Celebration
+### 2. Coral Tide
 
 Place:
 
-**Shellwater Cove**
+**Coralswell Lagoon**
 
 World Crest:
 
-**Lagoon Crest**
+**Coral Crest**
 
 Feeling line:
 
@@ -85,15 +87,15 @@ Feeling line:
 
 Score:
 
-**89/100**
+**92/100**
 
 Reason:
 
-Shellwater Cove is ownable, enterable, tactile, and more premium than Tropical Water Haven while keeping Lagoon’s joy, softness, and water-world identity.
+Coral Tide replaces Lagoon Celebration because Celebration sounded event-like and weak. Coral Tide works better as a world name and gives the Crest a clean matching identity: Coral Crest. Coralswell Lagoon replaces Shellwater Cove because it keeps the system coral-led, watery, blue/turquoise-first, and visually dynamic without introducing a third identity.
 
 Status:
 
-**Temporary place-name lock. Recheck after world-name audit and visual testing.**
+**Working lock. Recheck through visual testing.**
 
 ---
 
@@ -323,32 +325,48 @@ Status:
 
 Weakest to strongest:
 
-1. Lagoon Celebration — 89
-2. Storm Ascent — 90
-3. Forest Remembrance — 91
-4. Moonlight Discovery — 91
-5. Frost Resolve — 91
-6. Celestial Wonder — 91
+1. Storm Ascent — 90
+2. Forest Remembrance — 91
+3. Moonlight Discovery — 91
+4. Frost Resolve — 91
+5. Celestial Wonder — 91
+6. Coral Tide — 92
 7. Sanctuary Legacy — 92
 8. Summit Achievement — 93
 9. Prism Harmony — 93
 10. Ember Tribute — 96
 
-## Main place-name improvements made
+## Main naming improvements made
 
-### Lagoon
+### Coral Tide
 
-Changed place from:
+Changed world from:
 
-**Tropical Water Haven**
+**Lagoon Celebration**
 
 To:
 
+**Coral Tide**
+
+Changed place from:
+
 **Shellwater Cove**
+
+To:
+
+**Coralswell Lagoon**
+
+Changed World Crest from:
+
+**Lagoon Crest**
+
+To:
+
+**Coral Crest**
 
 Reason:
 
-More ownable, less generic, more premium, and more visual.
+The old stack created weak and conflicting identities. Coral Tide gives the world a stronger name, Coralswell Lagoon keeps the place watery and illustrative, and Coral Crest keeps the Crest name clearly married to the world name.
 
 ### Forest
 
@@ -450,12 +468,12 @@ More ownable, closer to Sanctuary Legacy, and less generic than refuge/haven/hom
 
 ## Reopen rule
 
-These place names may be reopened after:
+These names may be reopened after:
 
 1. the world-name audit;
 2. visual testing;
 3. the first complete Ember chapter prototype;
-4. any evidence that a place name feels weak, confusing, too literal, too abstract, too cheesy, or visually mismatched.
+4. any evidence that a name feels weak, confusing, too literal, too abstract, too cheesy, or visually mismatched.
 
 ## Guardrails
 

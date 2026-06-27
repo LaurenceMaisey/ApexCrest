@@ -268,14 +268,14 @@ The refined first-edition place names are:
 
 - Ember Tribute — **Volcanic Valley**
 - Lagoon Celebration — **Shellwater Cove**
-- Forest Remembrance — **Ancient Woodland Path**
+- Forest Remembrance — **The Elder Root**
 - Moonlight Discovery — **The Moonlit Arches**
-- Prism Harmony — **Valley of Light**
+- Prism Harmony — **The Refraction Pools**
 - Storm Ascent — **Storm Coast**
 - Frost Resolve — **Frozen Lake**
-- Celestial Wonder — **Starlit Lake**
-- Summit Achievement — **Golden Mountain Path**
-- Sanctuary Legacy — **Hidden Refuge**
+- Celestial Wonder — **Still Reach**
+- Summit Achievement — **The Last Ridge**
+- Sanctuary Legacy — **Inner Sanct**
 
 ## Mass-market clarity test
 

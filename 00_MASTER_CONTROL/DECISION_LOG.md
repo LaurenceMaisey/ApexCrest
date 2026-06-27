@@ -107,14 +107,14 @@ The chapter anatomy is upgraded from layout to ritual.
 
 Locked sequence:
 
-**Gate → Meaning → Reveal → Crest**
+**Gate → Meaning → Reveal → World Crest**
 
 Decision:
 
 - Page 1 is **The Gate**: the reader enters the world.
 - Page 2 is **The Meaning**: the emotional use-case becomes clear.
 - Page 3 is **The Reveal**: the full cinematic world is shown.
-- Page 4 is **The Crest**: the selected card receives symbolic recognition inside the world.
+- Page 4 is **The World Crest**: the selected card receives symbolic recognition inside the world.
 - Customer-facing language should use the ritual terms where helpful.
 - Practical production language such as wallet area, display area, or card display page may remain internal only.
 - Each world needs an unforgettable selection line that helps customers instantly know what kind of card belongs there.
@@ -130,3 +130,25 @@ A chapter is not ceiling-level unless the customer can immediately think:
 It must also make the customer feel:
 
 **A binder does not do this.**
+
+## 2026-06-27 — World Crests, place names, and feeling lines refined
+
+The weaker world/place names and feeling lines were reviewed against the dominance rubric.
+
+Refinements locked:
+
+- Lagoon place changed from **Tropical Water Haven** to **Shellwater Cove**.
+- Moonlight place changed from **Moonlit Ruins and Water** to **The Moonlit Arches**.
+- Celestial place changed from **Night Lake** to **Starlit Lake**.
+- Storm place changed from **Storm Coast / Lightning Pass** to **Storm Coast**.
+- Feeling lines were sharpened for all 10 World Crests.
+
+The final set is locked in:
+
+`02_PRODUCT/WORLD_CRESTS_AND_FEELING_LINES.md`
+
+Current strongest benchmarks:
+
+- **Ember Crest** — For the card that still glows after the moment has passed.
+- **Sanctuary Crest** — For the card that feels like home.
+- **Summit Crest** — For the card that proves the climb was worth it.

@@ -131,11 +131,11 @@ It must also make the customer feel:
 
 **A binder does not do this.**
 
-## 2026-06-27 — World Crests, place names, and feeling lines refined
+## 2026-06-27 — World Crests, provisional place names, and feeling lines recorded
 
 The weaker world/place names and feeling lines were reviewed against the dominance rubric.
 
-Refinements locked:
+The current provisional place-name set was recorded:
 
 - Lagoon place changed from **Tropical Water Haven** to **Shellwater Cove**.
 - Forest place changed from **Ancient Woodland Path** to **The Elder Root**.
@@ -147,7 +147,9 @@ Refinements locked:
 - Sanctuary place changed from **Hidden Refuge** to **Inner Sanct**.
 - Feeling lines were sharpened for all 10 World Crests.
 
-The final set is locked in:
+These place names are **temporary/provisional**, not final manuscript locks. They may be reopened after world-name audit, visual testing, or chapter prototyping. **Frozen Lake** is specifically noted as a likely later revisit.
+
+The current working set is recorded in:
 
 `02_PRODUCT/WORLD_CRESTS_AND_FEELING_LINES.md`
 

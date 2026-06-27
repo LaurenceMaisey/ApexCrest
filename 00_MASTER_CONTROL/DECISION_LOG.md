@@ -38,7 +38,7 @@ Decision:
 - no writing fields, prompts, lines, or workbook behaviour
 - authored world text must live on separate book pages
 - each world now uses a 4-page / 2-spread structure
-- target first-edition page count moves to 48–56 pages, with 56 preferred
+- initial target first-edition page count moved beyond the old 20–40 page concept
 - 10 centred card display pages maximum
 
 Locked 4-page world rhythm:
@@ -83,3 +83,20 @@ Decision:
 - The word **Crest** must officially mean book identity and symbolic recognition, not mechanical insertion, storage, organising, upgrading, or swapping.
 - The line is VAT-supportive because it strengthens the non-binder, non-storage positioning, but it does not determine VAT treatment on its own.
 - Written VAT specialist review remains required before relying on zero-rating.
+
+## 2026-06-27 — 64-page first edition preferred structure locked
+
+The preferred first-edition structure is now:
+
+- **64 pages total**
+- **10 worlds**
+- **10 centred personal card display pages maximum**
+- **10 card display pages = 15.6% of total pages**
+
+Decision:
+
+- 64 pages is preferred because it gives the book more standalone illustrated/reading substance.
+- 64 pages creates clearer distance from the 25% picture-card/stamp-album risk area.
+- 56 pages remains the minimum fallback only if production cost requires it.
+- 48 pages is no longer the preferred first-edition structure and may only be reconsidered after print-cost review and VAT specialist review.
+- The 64-page map is locked in `02_PRODUCT/FIRST_EDITION_64_PAGE_BOOK_MAP.md`.

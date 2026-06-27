@@ -6,7 +6,7 @@ Current design guardrail, not tax advice.
 
 A written VAT specialist opinion is still required before relying on zero-rating.
 
-Updated after the A5 wallet prototype review and 64-page book-map decision on 2026-06-27.
+Updated after the A5 wallet prototype review, 64-page book-map decision, and ritual-anatomy lock on 2026-06-27.
 
 ## Core position
 
@@ -36,7 +36,7 @@ ApexCrest must therefore be built to support the argument that:
 
 1. it is a recognisable illustrated book;
 2. it contains substantial authored text and illustration complete in themselves;
-3. the card display pages are selective and incidental to the book experience;
+3. the Crest/display pages are selective and incidental to the book experience;
 4. the primary function is reading/viewing the illustrated world book, not carrying, storing, mounting, cataloguing, or organising cards.
 
 ## Wallet/pocket principle
@@ -55,13 +55,13 @@ The book must be judged on its own qualities without inserted cards.
 - It must contain substantial reading matter and illustrations complete in themselves.
 - The book must still feel complete and valuable without any cards inserted.
 - Card placement must be secondary to the illustrated world-book experience.
-- Card display pages must remain clearly below 25% of the whole publication.
+- Crest/display pages must remain clearly below 25% of the whole publication.
 - The first edition should target **64 pages preferred**, with **56 pages minimum fallback only if production cost requires it**.
 - 48 pages is no longer the preferred first-edition structure.
-- Each world should use a 4-page chapter rhythm: entry, authored text, full illustration, centred card display.
-- Only 1 page per world should be card-display-led.
-- The full illustration should face the centred card display page to create the hero display spread.
-- The opening spread should be book-first: title/entry page plus authored text page.
+- Each world should use the locked ritual rhythm: **Gate → Meaning → Reveal → Crest**.
+- Only 1 page per world should be Crest/display-led.
+- The Reveal should face The Crest to create the hero display spread.
+- The opening spread should be book-first: Gate plus Meaning.
 - The quiet pages and hero pages must share the same world style, palette, typography, border logic, and emotional identity.
 - The product must be marketed as a premium illustrated collector-world book.
 
@@ -69,7 +69,7 @@ The book must be judged on its own qualities without inserted cards.
 
 - Do not build a 20-page or 40-page first-edition structure.
 - Do not use 48 pages as the default/preferred first-edition structure.
-- Do not let card display pages reach 25% or more of total pages.
+- Do not let Crest/display pages reach 25% or more of total pages.
 - Do not make every page in a world chapter lead towards card selection.
 - Do not put meaningful side text beside the card wallet on A5.
 - Do not use cramped left/right text columns around the wallet.
@@ -81,19 +81,19 @@ The book must be judged on its own qualities without inserted cards.
 - Do not sell or describe the product as a card-mounting system with decoration added.
 - Do not use album, binder, holder, storage, display accessory, wallet, workbook, record-book, or scrapbook wording in customer-facing copy.
 
-## Layout direction
+## Ritual layout direction
 
 Locked first-edition page rhythm per world:
 
-1. **Quiet world entry page** — title, subtitle, symbol, restrained world-specific atmosphere. No card language.
-2. **Authored world reading page** — standalone prose about the place, emotion, and atmosphere. No user prompt.
-3. **Full world illustration page** — cinematic landscape; the main visual reveal.
-4. **Centred card display page** — integrated wallet/display space; minimal title/subtitle and subtle world echo only.
+1. **The Gate** — title, subtitle, symbol, restrained world-specific atmosphere. No card language.
+2. **The Meaning** — standalone prose about the place, emotion, atmosphere, and collector significance. No user prompt.
+3. **The Reveal** — cinematic landscape; the main visual world reveal.
+4. **The Crest** — integrated personal display space; minimal title/subtitle and subtle world echo only.
 
 This creates two double-page spreads:
 
-- **Spread 1: Book-first spread** — proves the chapter is authored book content.
-- **Spread 2: Hero display spread** — gives the customer/marketing money shot with the full illustration facing the centred card page.
+- **Spread 1: Gate + Meaning** — proves the chapter is authored book content.
+- **Spread 2: Reveal + Crest** — gives the customer/marketing money shot with the full illustration facing the Crest page.
 
 ## Target page count
 
@@ -101,10 +101,10 @@ First edition should target:
 
 - **64 pages preferred**
 - **56 pages minimum fallback only if production cost requires it**
-- **10 card display pages maximum**
-- 64 pages with 10 card display pages = **15.6% card-display-led pages**
-- 56 pages with 10 card display pages = **17.9% card-display-led pages**
-- no version where card display pages are 25% or more of the book
+- **10 Crest/display pages maximum**
+- 64 pages with 10 Crest/display pages = **15.6% display-led pages**
+- 56 pages with 10 Crest/display pages = **17.9% display-led pages**
+- no version where Crest/display pages are 25% or more of the book
 
 The previous 48–56 page target is superseded.
 
@@ -112,7 +112,7 @@ The previous 48–56 page target is superseded.
 
 Conservative counting rule:
 
-Treat each full card display page as set aside for card display, even if the physical wallet area is smaller.
+Treat each full Crest/display page as set aside for display, even if the physical wallet area is smaller.
 
 Do not rely only on the physical wallet area calculation.
 
@@ -123,9 +123,9 @@ The 64-page map is preferred because it creates more obvious book-first substanc
 - 8 pages front matter
 - 40 pages world chapters
 - 16 pages back matter / closing book content
-- 54 pages that are not card-display-led
-- 10 card display pages maximum
-- card display pages at 15.6% of total pages
+- 54 pages that are not Crest/display-led
+- 10 Crest/display pages maximum
+- Crest/display pages at 15.6% of total pages
 
 This gives ApexCrest a stronger distance from the 25% picture-card/stamp-album risk area than the earlier 48–56 page range.
 
@@ -145,6 +145,14 @@ Good reading matter includes:
 
 The text must not become a form for the customer to complete.
 
+## Ritual-anatomy VAT note
+
+The Gate → Meaning → Reveal → Crest structure is VAT-supportive because it makes card display one symbolic recognition moment inside a wider authored and illustrated chapter.
+
+However, ritual language does not itself decide VAT treatment.
+
+The final VAT position still depends on the physical product, page count, display-page proportion, standalone reading/illustration, pocket/wallet function, packaging, listing copy, customer instructions, and written VAT specialist review.
+
 ## Standalone book test
 
 Every world must pass this test:
@@ -157,19 +165,30 @@ If no, redesign.
 
 ## Product language guardrail
 
-Safe language:
+Safe customer-facing language:
 
 - premium illustrated collector-world book
 - illustrated collector book
 - hardback illustrated book
 - collector-world book
 - book of illustrated emotional worlds
+- The Gate
+- The Meaning
+- The Reveal
+- The Crest
+- Crest page
+- personal display space
+- earned place
+
+Practical internal-only language:
+
 - personal card display page
 - display page
-- crest page
-- personal display space
+- wallet area
+- display area
+- mount area
 
-Risky language:
+Risky customer-facing language:
 
 - album
 - binder
@@ -194,6 +213,12 @@ It also allows **Crest** to refer to both:
 
 1. the ApexCrest book/product; and
 2. a symbolic mark of honour, recognition, earned place, and significance.
+
+## Mass-market clarity line
+
+**Ten worlds. Ten Crests. For the cards that earned their place.**
+
+This is allowed as a high-level product explanation because it communicates the world-book system, not storage capacity.
 
 ## Crest language VAT rule
 
@@ -228,10 +253,10 @@ Product photography must show the book complete without cards.
 Required visual proof:
 
 - closed hardback book
-- quiet world entry spread
+- Gate + Meaning spread
 - authored world text page
-- full world illustration page
-- empty centred display page
+- Reveal page
+- empty Crest page
 - one example spread with a card inserted
 
 Do not make every photo show cards inserted.
@@ -244,8 +269,12 @@ ApexCrest is not a card album.
 
 ApexCrest is a premium illustrated collector-world book.
 
-The card display pages are optional personalisation/display moments inside a complete illustrated book.
+The Crest/display pages are optional personalisation/display moments inside a complete illustrated book.
 
 64 pages is the preferred first-edition structure.
+
+The locked chapter ritual is:
+
+**Gate → Meaning → Reveal → Crest.**
 
 If the product feels empty, unfinished, or primarily waiting for cards, redesign it.

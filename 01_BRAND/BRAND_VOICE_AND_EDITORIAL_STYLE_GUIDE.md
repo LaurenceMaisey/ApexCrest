@@ -2,11 +2,11 @@
 
 ## Status
 
-Canonical split-file index — Phase 2C v0.1.
+Canonical split-file index — Phase 2D v0.1.
 
 This file is the index and governance entry point for the ApexCrest Brand Voice & Editorial Style Guide.
 
-The guide has been split into linked part files to reduce editing risk, prevent large-file loss, and preserve the approved Phase 2A, Phase 2B and Phase 2C material in a more maintainable structure.
+The guide has been split into linked part files to reduce editing risk, prevent large-file loss, and preserve the approved Phase 2A, Phase 2B, Phase 2C and Phase 2D material in a more maintainable structure.
 
 ## Source architecture
 
@@ -60,6 +60,22 @@ Read and maintain the guide through these linked part files:
    - Founder Voice
    - Phase 2C Channel Rules Audit
 
+4. `01_BRAND/BRAND_VOICE_GUIDE_PART_04_LEGAL_BOOK_FIRST_GOVERNANCE.md`
+   - Sections 25–36
+   - Compatibility Language Rules
+   - Legal & Trade Mark Guardrails
+   - Book-First & VAT-Supportive Language Rules
+   - Crest / Crested / Crest-worthy Canon
+   - Naming & Tagline Rules
+   - Example Library
+   - Rewrite Library
+   - Content Production System
+   - ApexCrest Language Test
+   - Approval Checklist
+   - Governance & Change Control
+   - Version History
+   - Phase 2D Legal, Book-First and Governance Audit
+
 ## Companion and restoration files
 
 The following files remain as review evidence and should not supersede the canonical parts unless explicitly promoted:
@@ -70,37 +86,25 @@ The following files remain as review evidence and should not supersede the canon
 
 ## Normative status
 
-The canonical guide is the combination of this index and the three part files listed above.
+The canonical guide is the combination of this index and the four part files listed above.
 
 If another ApexCrest document contains conflicting writing guidance, the Brand Voice & Editorial Style Guide should take precedence unless a later approved revision explicitly supersedes it.
 
 ## No-loss split confirmation
 
-The split-file structure is intended to preserve all approved Phase 2A, Phase 2B and Phase 2C content while restoring the full Phase 2A and Phase 2B audit detail that was previously compressed during integration.
+The split-file structure is intended to preserve all approved Phase 2A, Phase 2B, Phase 2C and Phase 2D content.
 
-Before PR #9 is merged, the split should be audited to confirm:
+Before Phase 2D is merged, the split should be audited to confirm:
 
 - Part 01 contains sections 1–9 and the full Phase 2A audit.
 - Part 02 contains sections 10–15 and the full Phase 2B audit.
 - Part 03 contains sections 16–24 and the Phase 2C audit.
+- Part 04 contains sections 25–36 and the Phase 2D audit.
 - The index clearly links all canonical parts.
 - No companion or restoration file is treated as more authoritative than the canonical part files.
 
-## Next Phase
+## Completion status
 
-Proceed to Phase 2D only after PR #9 passes no-loss review and is merged.
+Phase 2D completes the first full draft of the canonical Brand Voice & Editorial Style Guide.
 
-Phase 2D will draft:
-
-25. Compatibility Language Rules
-26. Legal & Trade Mark Guardrails
-27. Book-First & VAT-Supportive Language Rules
-28. Crest / Crested / Crest-worthy Canon
-29. Naming & Tagline Rules
-30. Example Library
-31. Rewrite Library
-32. Content Production System
-33. ApexCrest Language Test
-34. Approval Checklist
-35. Governance & Change Control
-36. Version History
+After PR review and merge, the next recommended step is a full-guide lock audit across all four parts before promoting the guide to v1.0.

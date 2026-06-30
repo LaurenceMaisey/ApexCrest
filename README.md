@@ -10,6 +10,19 @@ ApexCrest is not a binder, album, storage product, or display accessory.
 
 ApexCrest is a premium illustrated collector book built around emotional landscapes, meaningful collecting, and the ritual of Cresting.
 
+Preferred first-edition structure: **64-page A5 hardback illustrated collector-world book with 10 centred personal card display pages maximum.**
+
+## Locked public line
+
+**Some cards deserve more than a binder. They deserve a Crest.**
+
+This line is locked because **Crest** carries two meanings:
+
+1. the ApexCrest book/product; and
+2. the symbolic mark of honour, recognition, and earned place.
+
+Official language must keep Crest as book identity and symbolic recognition, not as card-management language.
+
 ## Core phrase
 
 **For the cards that earned their place.**
